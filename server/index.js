@@ -287,8 +287,8 @@ app.get('/api/inteligencia', (req, res) => {
 if (process.env.NODE_ENV === 'production') {
   const clientDist = path.join(__dirname, '..', 'client', 'dist');
   app.use(express.static(clientDist));
-  // React Router: serve index.html for all non-API routes
-  app.get(/^(?!\/api).*/, (req, res) => {
+  // React Router SPA: qualquer rota não-API serve o index.html
+  app.get('*', (req, res) => {
     res.sendFile(path.join(clientDist, 'index.html'));
   });
 }
