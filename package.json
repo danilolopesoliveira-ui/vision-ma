@@ -1,0 +1,19 @@
+{
+  "name": "vision-ma",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "cd client && npm install && npm run build",
+    "install:all": "cd client && npm install && cd ../server && npm install",
+    "dev": "concurrently \"npm run dev:client\" \"npm run dev:server\"",
+    "dev:client": "cd client && npm run dev",
+    "dev:server": "cd server && node index.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}

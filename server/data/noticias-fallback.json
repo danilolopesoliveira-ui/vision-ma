@@ -1,0 +1,398 @@
+[
+  {
+    "id": "noticia-001",
+    "titulo": "Rede D'Or avança em negociações para adquirir rede hospitalar no interior de São Paulo",
+    "resumo": "A Rede D'Or São Luiz, maior rede hospitalar privada do Brasil, estuda a aquisição de grupo hospitalar paulistano avaliado entre R$700 milhões e R$900 milhões, segundo fontes próximas ao processo. A operação fortaleceria a presença da companhia no interior do estado, onde a empresa ainda tem baixa capilaridade em relação à Grande São Paulo.",
+    "fonte": "Valor Econômico",
+    "fonte_tier": 1,
+    "url": "https://valoreconomico.com.br",
+    "data": "2024-11-15",
+    "categoria": "Rumor",
+    "entidades": {
+      "alvo": "Grupo Hospitalar SP (nome fictício)",
+      "adquirente": "Rede D'Or São Luiz",
+      "valor_estimado": "R$800M",
+      "setor": "Saúde",
+      "tipo_deal": "Aquisição",
+      "status": "Rumor"
+    }
+  },
+  {
+    "id": "noticia-002",
+    "titulo": "TOTVS anuncia aquisição de startup de inteligência artificial para gestão de supply chain",
+    "resumo": "A TOTVS, maior empresa de software de gestão empresarial da América Latina, comunicou ao mercado a aquisição de startup brasileira especializada em inteligência artificial aplicada à cadeia de suprimentos. A operação, avaliada em R$320 milhões, reforça a estratégia da companhia de incorporar IA generativa às suas soluções de ERP para médias e grandes empresas.",
+    "fonte": "Pipeline - Valor Econômico",
+    "fonte_tier": 1,
+    "url": "https://valoreconomico.com.br",
+    "data": "2024-10-28",
+    "categoria": "Anúncio Oficial",
+    "entidades": {
+      "alvo": "Startup de IA (supply chain)",
+      "adquirente": "TOTVS",
+      "valor_estimado": "R$320M",
+      "setor": "Tecnologia",
+      "tipo_deal": "Aquisição",
+      "status": "Anunciado"
+    }
+  },
+  {
+    "id": "noticia-003",
+    "titulo": "Fato Relevante: Hapvida NotreDame conclui desinvestimento de ativos hospitalares no Nordeste",
+    "resumo": "A Hapvida NotreDame Intermédica informa aos seus acionistas e ao mercado em geral que concluiu, nesta data, a alienação de 3 hospitais localizados no Nordeste do Brasil, cumprindo os condicionamentos estabelecidos pelo CADE quando da aprovação da fusão das operações em 2022. O valor total da transação atingiu R$680 milhões, com impacto positivo no índice de alavancagem da companhia.",
+    "fonte": "CVM - Fato Relevante",
+    "fonte_tier": 1,
+    "url": "https://www.rad.cvm.gov.br",
+    "data": "2024-09-12",
+    "categoria": "Fato Relevante CVM",
+    "entidades": {
+      "alvo": "Hospitais no Nordeste (portfólio)",
+      "adquirente": "Investidores PE (comprador)",
+      "valor_estimado": "R$680M",
+      "setor": "Saúde",
+      "tipo_deal": "Desinvestimento",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-004",
+    "titulo": "Magazine Luiza e Mercado Livre exploram parceria logística com potencial de combinação de ativos",
+    "resumo": "O Magazine Luiza e o Mercado Livre estariam em conversas exploratórias para uma potencial joint venture logística que combinaria a malha de distribuição do Magalu com a capacidade de fulfillment do MELI no Brasil, de acordo com fontes familiarizadas com as tratativas. A eventual parceria, que poderia movimentar até R$2B, ainda estaria em estágio inicial e não haveria garantias de conclusão.",
+    "fonte": "The Brazilian Report",
+    "fonte_tier": 2,
+    "url": "https://brazilian.report",
+    "data": "2024-10-05",
+    "categoria": "Rumor",
+    "entidades": {
+      "alvo": "Parceria Logística (JV)",
+      "adquirente": "Magazine Luiza / Mercado Livre",
+      "valor_estimado": "R$2B",
+      "setor": "Varejo / Logística",
+      "tipo_deal": "Joint Venture",
+      "status": "Rumor"
+    }
+  },
+  {
+    "id": "noticia-005",
+    "titulo": "Fato Relevante: Localiza Hertz conclui desinvestimento de frota exigido pelo CADE",
+    "resumo": "A Localiza Hertz S.A. comunica ao mercado a conclusão do desinvestimento de 63.895 veículos e 39 agências conforme determinação do CADE como condição para aprovação da fusão com a Unidas. A companhia informa que todos os condicionamentos regulatórios foram integralmente cumpridos, encerrando as obrigações perante a autarquia antitruste. A empresa retorna aos investidores R$1,2 bilhão em capital previamente alocado para os remédios concorrenciais.",
+    "fonte": "CVM - Fato Relevante",
+    "fonte_tier": 1,
+    "url": "https://www.rad.cvm.gov.br",
+    "data": "2023-04-18",
+    "categoria": "Fato Relevante CVM",
+    "entidades": {
+      "alvo": "Frota e agências desinvestidas",
+      "adquirente": "Localiza Hertz (desinvestidor)",
+      "valor_estimado": "R$1,2B",
+      "setor": "Transportes",
+      "tipo_deal": "Desinvestimento regulatório",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-006",
+    "titulo": "XP Inc avança em gestora de crédito privado e pode ultrapassar R$10B em captações",
+    "resumo": "A XP Inc está em negociação avançada para adquirir ou realizar parceria estratégica com gestora independente de crédito privado estruturado, com AuM de aproximadamente R$8B, segundo pessoas com conhecimento do assunto. A operação ampliaria a oferta de produtos de renda fixa alternativa na plataforma da XP e reforçaria a competição com a área de crédito do BTG Pactual Asset Management.",
+    "fonte": "Estadão Broadcast",
+    "fonte_tier": 1,
+    "url": "https://broadcast.estadao.com.br",
+    "data": "2024-11-02",
+    "categoria": "Rumor",
+    "entidades": {
+      "alvo": "Gestora de crédito privado (não identificada)",
+      "adquirente": "XP Inc",
+      "valor_estimado": "Não divulgado",
+      "setor": "Financeiro",
+      "tipo_deal": "Aquisição / Parceria",
+      "status": "Rumor"
+    }
+  },
+  {
+    "id": "noticia-007",
+    "titulo": "StoneCo conclui integração da Linx e anuncia novas metas de cross-sell para 2025",
+    "resumo": "A StoneCo anunciou a conclusão do processo de integração tecnológica da Linx, adquirida em 2021 por R$6,5B, com a migração completa dos sistemas de gestão de varejo para a plataforma unificada da Stone. A empresa divulgou metas de cross-sell que devem gerar receita incremental de R$400M até 2025, com foco em clientes do segmento de supermercados e farmácias que utilizam os ERPs da Linx.",
+    "fonte": "Valor Econômico",
+    "fonte_tier": 1,
+    "url": "https://valoreconomico.com.br",
+    "data": "2024-08-20",
+    "categoria": "Fechamento",
+    "entidades": {
+      "alvo": "Linx (integração pós-M&A)",
+      "adquirente": "StoneCo",
+      "valor_estimado": "R$6,5B (deal original)",
+      "setor": "Tecnologia",
+      "tipo_deal": "Aquisição",
+      "status": "Integração concluída"
+    }
+  },
+  {
+    "id": "noticia-008",
+    "titulo": "CADE abre investigação aprofundada sobre fusão da Arezzo com Grupo Soma",
+    "resumo": "O Conselho Administrativo de Defesa Econômica converteu para rito ordinário a análise do ato de concentração entre a Arezzo&Co e o Grupo Soma, avaliado em R$11B. Segundo o despacho da Superintendência-Geral, há indícios de potencial concentração em segmentos específicos de moda feminina premium e de marcas de varejo especializado em shopping centers. As empresas terão 30 dias para apresentar informações adicionais.",
+    "fonte": "CADE - Comunicado Oficial",
+    "fonte_tier": 1,
+    "url": "https://www.cade.gov.br",
+    "data": "2024-07-10",
+    "categoria": "Regulatório",
+    "entidades": {
+      "alvo": "Grupo Soma",
+      "adquirente": "Arezzo&Co",
+      "valor_estimado": "R$11B",
+      "setor": "Consumo / Moda",
+      "tipo_deal": "Fusão",
+      "status": "Em análise CADE"
+    }
+  },
+  {
+    "id": "noticia-009",
+    "titulo": "Nubank capta US$150M em debêntures para expansão de carteira de crédito no México",
+    "resumo": "O Nubank, maior banco digital do mundo por número de clientes, captou US$150 milhões em debêntures internacionais para financiar a expansão da carteira de crédito pessoal e cartão no México, onde a empresa já acumula 7 milhões de clientes. A operação foi estruturada pelo BTG Pactual como coordenador líder, com participação do Goldman Sachs e Citi como co-coordenadores. O Nubank conta atualmente com mais de 100 milhões de clientes entre Brasil, México e Colômbia.",
+    "fonte": "Bloomberg Línea",
+    "fonte_tier": 1,
+    "url": "https://bloomberglinea.com.br",
+    "data": "2024-09-30",
+    "categoria": "PE/VC",
+    "entidades": {
+      "alvo": null,
+      "adquirente": "Nubank",
+      "valor_estimado": "US$150M",
+      "setor": "Fintech",
+      "tipo_deal": "Captação de dívida",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-010",
+    "titulo": "Embraer e Boeing encerram joint venture de aviação comercial com acordo de compensação de R$200M",
+    "resumo": "A Embraer e a Boeing chegaram a um acordo definitivo para encerrar a joint venture de aviação comercial que havia sido bloqueada pela Boeing em 2020, alegando descumprimento de condições. O acordo, com compensação de US$40M pagos pela Boeing à Embraer, encerra litígio internacional que corria em câmara de arbitragem em Nova York. Com o fim do imbróglio, a Embraer retorna à independência total no segmento de aeronaves comerciais.",
+    "fonte": "Reuters Brasil",
+    "fonte_tier": 1,
+    "url": "https://reuters.com/brasil",
+    "data": "2024-10-15",
+    "categoria": "Cancelamento",
+    "entidades": {
+      "alvo": "JV Aviação Comercial Embraer-Boeing",
+      "adquirente": "Boeing (ex-parceiro)",
+      "valor_estimado": "US$40M (compensação)",
+      "setor": "Aeroespacial",
+      "tipo_deal": "Dissolução de JV",
+      "status": "Cancelado"
+    }
+  },
+  {
+    "id": "noticia-011",
+    "titulo": "WEG negocia aquisição de fabricante europeu de motores industriais para acelerar internacionalização",
+    "resumo": "A WEG, maior fabricante de equipamentos eletroeletrônicos da América Latina, está em negociações avançadas para adquirir fabricante europeu de médio porte de motores industriais e sistemas de automação, com faturamento anual de EUR 400 milhões. A operação, que pode superar R$3B, aceleraria a expansão da WEG no mercado industrial europeu onde a empresa ainda tem participação limitada frente a concorrentes como ABB e Siemens.",
+    "fonte": "Pipeline - Valor Econômico",
+    "fonte_tier": 1,
+    "url": "https://valoreconomico.com.br",
+    "data": "2024-11-08",
+    "categoria": "Rumor",
+    "entidades": {
+      "alvo": "Fabricante europeu de motores (não identificado)",
+      "adquirente": "WEG",
+      "valor_estimado": "R$3B+",
+      "setor": "Indústria / Energia",
+      "tipo_deal": "Aquisição",
+      "status": "Rumor"
+    }
+  },
+  {
+    "id": "noticia-012",
+    "titulo": "Fato Relevante: Eletrobras conclui desinvestimento de distribuidoras conforme condicionamento de privatização",
+    "resumo": "A Centrais Elétricas Brasileiras S.A. (Eletrobras) comunica a conclusão da venda das distribuidoras de energia elétrica do Norte e Nordeste do Brasil (Eletroacre, Ceron, Boa Vista Energia, CEAL, CEPISA e CERON) em conformidade com o cronograma estabelecido pela ANEEL como condicionamento do processo de privatização concluído em junho de 2022. A operação totalizou R$4,2 bilhões em valor de venda, superior ao piso estabelecido pelo modelo de capitalização.",
+    "fonte": "CVM - Fato Relevante",
+    "fonte_tier": 1,
+    "url": "https://www.rad.cvm.gov.br",
+    "data": "2024-03-28",
+    "categoria": "Fato Relevante CVM",
+    "entidades": {
+      "alvo": "Distribuidoras Eletrobras (Norte/Nordeste)",
+      "adquirente": "Consórcio de investidores (variados)",
+      "valor_estimado": "R$4,2B",
+      "setor": "Energia",
+      "tipo_deal": "Desinvestimento regulatório",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-013",
+    "titulo": "Ambev estuda aquisição de plataforma de bebidas premium para competir no segmento artesanal",
+    "resumo": "A Ambev estaria estudando a aquisição de plataforma de distribuição e portfólio de cervejas artesanais e bebidas premium no Brasil, com valuation estimado entre R$600M e R$1B, segundo pessoas familiarizadas com o assunto. A movimentação seria uma resposta à perda de participação de mercado para marcas independentes nos segmentos de maior valor agregado. O Itaú BBA teria sido contratado para assessorar a empresa no processo.",
+    "fonte": "Exame",
+    "fonte_tier": 2,
+    "url": "https://exame.com",
+    "data": "2024-10-22",
+    "categoria": "Rumor",
+    "entidades": {
+      "alvo": "Plataforma de bebidas premium (não identificada)",
+      "adquirente": "Ambev",
+      "valor_estimado": "R$600M-R$1B",
+      "setor": "Consumo / Bebidas",
+      "tipo_deal": "Aquisição",
+      "status": "Rumor"
+    }
+  },
+  {
+    "id": "noticia-014",
+    "titulo": "Vale conclui venda de 13% da ValeBase para consórcio saudita e recompra ações",
+    "resumo": "A Vale S.A. concluiu a venda de participação de 13% na ValeBase, subsidiária de metais básicos que engloba as operações de níquel e cobre, para um consórcio liderado pelo Fundo de Investimento Público da Arábia Saudita (PIF), com participação de outros investidores institucionais do Oriente Médio. O montante total da transação atingiu US$3,4 bilhões, sendo os recursos destinados ao programa de recompra de ações e redução da alavancagem da companhia.",
+    "fonte": "Financial Times Brasil",
+    "fonte_tier": 1,
+    "url": "https://ft.com",
+    "data": "2024-11-01",
+    "categoria": "Fechamento",
+    "entidades": {
+      "alvo": "ValeBase (participação 13%)",
+      "adquirente": "PIF (Fundo Soberano Saudita) + consórcio",
+      "valor_estimado": "US$3,4B",
+      "setor": "Mineração",
+      "tipo_deal": "Desinvestimento parcial",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-015",
+    "titulo": "Petrobras Distribuidora (Vibra Energia) descarta fusão com Raízen após conversas exploratórias",
+    "resumo": "A Vibra Energia, ex-Petrobras Distribuidora, confirmou ao mercado que as conversas exploratórias com a Raízen sobre uma potencial combinação de ativos de distribuição de combustíveis foram encerradas sem acordo. Segundo o CEO da companhia, as diferenças de valuation e estrutura de governança inviabilizaram a operação, que teria criado um gigante de distribuição avaliado em mais de R$30B. Ambas as empresas afirmam seguir com suas estratégias independentes de crescimento.",
+    "fonte": "Valor Econômico",
+    "fonte_tier": 1,
+    "url": "https://valoreconomico.com.br",
+    "data": "2024-09-05",
+    "categoria": "Cancelamento",
+    "entidades": {
+      "alvo": "Raízen (combinação de ativos)",
+      "adquirente": "Vibra Energia",
+      "valor_estimado": "R$30B+",
+      "setor": "Energia / Combustíveis",
+      "tipo_deal": "Fusão (descartada)",
+      "status": "Cancelado"
+    }
+  },
+  {
+    "id": "noticia-016",
+    "titulo": "Sabesp privatizada: Equatorial Energia conclui maior transação de saneamento da história do Brasil",
+    "resumo": "A Equatorial Energia concluiu a aquisição de 15% das ações da Sabesp por R$14,8 bilhões em leilão na B3, tornando-se a maior privatização do setor de saneamento básico da história brasileira. A companhia assume o compromisso de universalizar o acesso à água e esgoto no estado de São Paulo até 2029, conforme exigência do Novo Marco do Saneamento. O leilão contou com competição de outros grupos do setor elétrico, mas a Equatorial saiu vencedora com prêmio de 12% sobre o preço de tela.",
+    "fonte": "Valor Econômico",
+    "fonte_tier": 1,
+    "url": "https://valor.globo.com",
+    "data": "2024-07-05",
+    "categoria": "Fechamento",
+    "entidades": {
+      "alvo": "Sabesp",
+      "adquirente": "Equatorial Energia",
+      "valor_estimado": "R$14,8B",
+      "setor": "Utilities / Saneamento",
+      "tipo_deal": "Privatização",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-017",
+    "titulo": "PRIO fecha aquisição da Sinochem Brasil por US$2,05B, tornando-se maior produtora independente de petróleo do país",
+    "resumo": "A PRIO (antiga PetroRio) concluiu a aquisição da Sinochem Petróleo Brasil por US$2,05 bilhões (R$10,4B), após obter aprovações da ANP e do CADE. Com a transação, a PRIO consolida sua posição como maior produtora independente de petróleo do Brasil, adicionando aproximadamente 40 mil barris/dia à sua produção e incorporando participações em campos estratégicos no pré-sal.",
+    "fonte": "NeoFeed",
+    "fonte_tier": 1,
+    "url": "https://neofeed.com.br",
+    "data": "2024-08-30",
+    "categoria": "Fechamento",
+    "entidades": {
+      "alvo": "Sinochem Petróleo Brasil",
+      "adquirente": "PRIO",
+      "valor_estimado": "R$10,4B",
+      "setor": "Energia / Óleo & Gás",
+      "tipo_deal": "Aquisição",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-018",
+    "titulo": "Arezzo e Soma anunciam fusão que cria a Azzas 2154, maior grupo de moda do Brasil",
+    "resumo": "A Arezzo&Co e o Grupo Soma anunciaram fusão por troca de ações que cria a Azzas 2154, holding que reunirá marcas como Arezzo, Schutz, Anacapri, Farm, Animale e Maria Filó. A nova empresa, avaliada em cerca de R$13 bilhões, se posiciona para competir globalmente no segmento de moda premium. O CADE aprovou a operação sem restrições em rito sumário, e as ações da Azzas passaram a ser negociadas na B3 sob o ticker AZZAS2154 a partir de agosto de 2024.",
+    "fonte": "Valor Econômico",
+    "fonte_tier": 1,
+    "url": "https://valor.globo.com",
+    "data": "2024-07-31",
+    "categoria": "Fechamento",
+    "entidades": {
+      "alvo": "Grupo Soma",
+      "adquirente": "Arezzo&Co",
+      "valor_estimado": "R$13,0B",
+      "setor": "Consumo / Moda",
+      "tipo_deal": "Fusão",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-019",
+    "titulo": "CADE bate recorde histórico com 712 atos de concentração analisados em 2024",
+    "resumo": "O Conselho Administrativo de Defesa Econômica registrou 712 atos de concentração em 2024, superando o recorde anterior de 592 casos de 2023 e representando crescimento de 20% ao ano. No total, o CADE analisou mais de R$1 trilhão em volume de transações. A taxa de aprovação se manteve acima de 97%, com apenas 3 casos reprovados ou desistidos. O conselho também reduziu o tempo médio de análise para 52 dias, abaixo do limite legal de 240 dias.",
+    "fonte": "Portal Fusões & Aquisições",
+    "fonte_tier": 2,
+    "url": "https://fusoesaquisicoes.com.br",
+    "data": "2025-01-15",
+    "categoria": "Regulatório",
+    "entidades": {
+      "alvo": null,
+      "adquirente": null,
+      "valor_estimado": "R$1,068T (volume total analisado)",
+      "setor": "Todos",
+      "tipo_deal": "Dados Regulatórios",
+      "status": "Concluído"
+    }
+  },
+  {
+    "id": "noticia-020",
+    "titulo": "Auren Energia e AES Brasil concluem fusão que cria maior geradora privada de renováveis do Brasil",
+    "resumo": "A fusão entre a Auren Energia e a AES Brasil foi concluída após aprovação do CADE com condicionamentos de desinvestimento de duas usinas hidrelétricas em mercados sobrepostos. A nova Auren passa a contar com capacidade instalada superior a 5 GW entre eólica, solar, hídrica e baterias, tornando-se a maior geradora privada de energia renovável do Brasil. As sinergias estimadas são de R$400 milhões anuais.",
+    "fonte": "Exame",
+    "fonte_tier": 2,
+    "url": "https://exame.com",
+    "data": "2024-12-10",
+    "categoria": "Fechamento",
+    "entidades": {
+      "alvo": "AES Brasil",
+      "adquirente": "Auren Energia",
+      "valor_estimado": "R$6,95B",
+      "setor": "Energia / Renováveis",
+      "tipo_deal": "Fusão",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-021",
+    "titulo": "Asaas confirma rodada Série C de R$820M e status de unicórnio com valuation de R$4,5B",
+    "resumo": "A Asaas Gestão Financeira, fintech B2B especializada em gestão financeira para PMEs, confirmou a conclusão de rodada Série C de R$820 milhões, a maior do Brasil em 2024. Com o aporte, a empresa atinge valuation implícito de R$4,5 bilhões, confirmando seu status de unicórnio. Os recursos serão direcionados para expansão do banking as a service, cartão de crédito corporativo e APIs financeiras para instituições parceiras.",
+    "fonte": "NeoFeed",
+    "fonte_tier": 1,
+    "url": "https://neofeed.com.br",
+    "data": "2024-08-15",
+    "categoria": "PE/VC",
+    "entidades": {
+      "alvo": null,
+      "adquirente": "Asaas (captadora)",
+      "valor_estimado": "R$820M",
+      "setor": "Fintech",
+      "tipo_deal": "Venture Capital (Série C)",
+      "status": "Fechado"
+    }
+  },
+  {
+    "id": "noticia-022",
+    "titulo": "J&F vence arbitragem e recompra controle da Eldorado Celulose por US$3B, encerrando disputa de 6 anos com Paper Excellence",
+    "resumo": "O grupo J&F, dos irmãos Joesley e Wesley Batista, encerrou o longo litígio com a canadense Paper Excellence e recomprou o controle integral da Eldorado Brasil Celulose por cerca de US$3 bilhões (R$15 bilhões). O laudo arbitral determinou a saída da Paper Excellence e o acordo extrajudicial subsequente definiu o valor de recompra. A Eldorado, segunda maior produtora de celulose de eucalipto do mundo, retorna ao controle exclusivo da família Batista.",
+    "fonte": "Bloomberg Línea",
+    "fonte_tier": 1,
+    "url": "https://bloomberglinea.com.br",
+    "data": "2024-11-28",
+    "categoria": "Fechamento",
+    "entidades": {
+      "alvo": "Eldorado Brasil Celulose (participação Paper Excellence)",
+      "adquirente": "J&F Investimentos",
+      "valor_estimado": "R$15,0B",
+      "setor": "Industriais / Celulose",
+      "tipo_deal": "Resolução Societária / Recompra",
+      "status": "Fechado"
+    }
+  }
+]

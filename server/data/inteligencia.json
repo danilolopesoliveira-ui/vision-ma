@@ -1,0 +1,818 @@
+[
+  {
+    "setor": "Saúde",
+    "termometro": "Aquecido",
+    "termometro_emoji": "🔥",
+    "termometro_nivel": 4,
+    "outlook": "O setor de saúde mantém alta atividade de M&A impulsionada pela consolidação das redes hospitalares e integração vertical dos planos de saúde. A regulação da ANS e o envelhecimento da população seguem como catalisadores estruturais de longo prazo. Expectativa de 15-20 transações relevantes nos próximos 12 meses.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 18, "volume_bi": 8.5},
+      {"ano": 2020, "num_deals": 14, "volume_bi": 6.2},
+      {"ano": 2021, "num_deals": 22, "volume_bi": 14.8},
+      {"ano": 2022, "num_deals": 31, "volume_bi": 38.4},
+      {"ano": 2023, "num_deals": 24, "volume_bi": 18.2},
+      {"ano": 2024, "num_deals": 19, "volume_bi": 12.6}
+    ],
+    "top_compradores": [
+      {"nome": "Rede D'Or", "tipo": "Estratégico Nacional", "num_deals": 12, "deal_recente": "SulAmérica (2022)"},
+      {"nome": "Hapvida", "tipo": "Estratégico Nacional", "num_deals": 8, "deal_recente": "NDI (2022)"},
+      {"nome": "Oncoclínicas", "tipo": "PE-backed", "num_deals": 6, "deal_recente": "Grupo OC (2023)"},
+      {"nome": "Advent International", "tipo": "PE Internacional", "num_deals": 4, "deal_recente": "Viveo (2022)"},
+      {"nome": "Vinci Partners PE", "tipo": "PE Nacional", "num_deals": 3, "deal_recente": "Clínica Expand (2023)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Dasa (DASA3)",
+        "justificativa": "Alta alavancagem pós-crescimento agressivo, pressão de acionistas por desinvestimento de ativos não-core. Potencial alvo para PE ou consolidador hospitalar.",
+        "indicadores": ["Alta alavancagem", "Pressão acionistas", "Ativos não-core"]
+      },
+      {
+        "empresa": "Grupo Fleury (FLRY3)",
+        "justificativa": "Boa geração de caixa em diagnósticos, possível consolidação com OdontoPrev ou rede hospitalar regional para integração vertical.",
+        "indicadores": ["Boa geração de caixa", "Candidato a consolidação", "Nicho diagnóstico"]
+      },
+      {
+        "empresa": "Kora Saúde",
+        "justificativa": "Rede hospitalar em expansão acelerada via M&A, porém com alavancagem crescente e necessidade de capital. Possível alvo de PE ou consolidador estratégico maior.",
+        "indicadores": ["Expansão acelerada", "Alavancagem crescente", "Necessidade de capital"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 13,
+      "ev_receita_med": 2.8,
+      "tendencia": "alta",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Integração vertical plano-hospital cria defensividade e redução de custo médico-hospitalar",
+      "Consolidação de redes regionais em mercados ainda fragmentados (Norte, Nordeste, Centro-Oeste)",
+      "PE buy-and-build em clínicas especializadas (oncologia, cardiologia, ortopedia)",
+      "Digitalização e healthtech como vetor de crescimento pós-pandemia",
+      "Pressão de ANS por cobertura ampliada abre espaço para M&A defensivo"
+    ],
+    "fatores_risco": [
+      "Aumento da sinistralidade comprime margens dos planos e valor de ativos",
+      "Regulação ANS com reajuste de prêmios pode limitar crescimento de receita",
+      "Custo de capital elevado dificulta financiamento de grandes transações",
+      "Integração cultural complexa em fusões de redes hospitalares",
+      "Concentração de mercado pode atrair escrutínio crescente do CADE"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Rede Mater Dei", "contexto": "Expansão geográfica agressiva, possível alvo ou consolidador regional", "probabilidade": "Alta"},
+      {"empresa": "Grupo Amil (UnitedHealth)", "contexto": "Rumores de reposicionamento estratégico nos EUA podem levar a desinvestimento do Brasil", "probabilidade": "Média"},
+      {"empresa": "Hospital Santa Catarina SP", "contexto": "Família fundadora em processo de sucessão, banco mandatado para análise", "probabilidade": "Média"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "ANS — Agência Nacional de Saúde Suplementar",
+      "consideracoes": "Aprovação da ANS pode ser necessária para fusões de operadoras de planos acima de 100k beneficiários. CADE analisa concentração em mercados geográficos específicos."
+    }
+  },
+  {
+    "setor": "Tecnologia",
+    "termometro": "Ebulição",
+    "termometro_emoji": "🚀",
+    "termometro_nivel": 5,
+    "outlook": "O setor de tecnologia é o mais aquecido em M&A no Brasil, impulsionado pela aceleração digital, maturação do ecossistema de startups e interesse crescente de estratégicos globais e PEs internacionais. SaaS vertical, fintechs e plataformas de dados concentram o maior apetite. A queda das avaliações de 2022-2023 abre oportunidades de aquisições a múltiplos atrativos em 2024-2025.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 28, "volume_bi": 5.1},
+      {"ano": 2020, "num_deals": 35, "volume_bi": 9.4},
+      {"ano": 2021, "num_deals": 72, "volume_bi": 31.7},
+      {"ano": 2022, "num_deals": 58, "volume_bi": 22.3},
+      {"ano": 2023, "num_deals": 41, "volume_bi": 14.8},
+      {"ano": 2024, "num_deals": 49, "volume_bi": 19.2}
+    ],
+    "top_compradores": [
+      {"nome": "TOTVS", "tipo": "Estratégico Nacional", "num_deals": 14, "deal_recente": "Supplier (2022)"},
+      {"nome": "SoftBank Latin America", "tipo": "VC/PE Internacional", "num_deals": 11, "deal_recente": "Mindera (2023)"},
+      {"nome": "Kaszek Ventures", "tipo": "VC Nacional", "num_deals": 9, "deal_recente": "Sólides (2023)"},
+      {"nome": "Advent International", "tipo": "PE Internacional", "num_deals": 5, "deal_recente": "Stefanini carve-out (2023)"},
+      {"nome": "Grupo Movile", "tipo": "Estratégico Nacional", "num_deals": 7, "deal_recente": "PlayKids (2022)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Locaweb (LWSA3)",
+        "justificativa": "Portfólio fragmentado pós-ciclo de aquisições agressivas, múltiplos comprimidos e pressão de acionistas por foco estratégico. Possível alvo de TOTVS ou PE para consolidar ativos de e-commerce e SaaS.",
+        "indicadores": ["Múltiplos comprimidos", "Portfólio fragmentado", "Pressão por foco"]
+      },
+      {
+        "empresa": "Sinqia (SQIA3)",
+        "justificativa": "SaaS especializado em fintechs e gestoras de investimentos, com base de clientes fidelizada. Alvo natural para consolidadores de tecnologia financeira como TOTVS ou players internacionais.",
+        "indicadores": ["SaaS recorrente", "Nicho fintech", "Base de clientes fidelizada"]
+      },
+      {
+        "empresa": "Zenvia (ZENV)",
+        "justificativa": "Plataforma de comunicação empresarial com alavancagem elevada e queima de caixa. Reestruturação financeira pode abrir janela para aquisição estratégica ou carve-out de divisões.",
+        "indicadores": ["Alta alavancagem", "Queima de caixa", "Reestruturação em curso"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 18,
+      "ev_receita_med": 4.2,
+      "tendencia": "estável",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Plataformização de SaaS verticais para criar ecossistemas integrados e aumentar LTV de clientes",
+      "Embedded finance como vetor de crescimento: fintechs embarcadas em ERPs e marketplaces",
+      "Consolidação de ERP regionais e verticais pelo líder nacional TOTVS e desafiantes",
+      "Buy-and-build em agências digitais e consultorias de transformação digital",
+      "Aquisição de startups de IA e dados por estratégicos para acelerar roadmap de produto"
+    ],
+    "fatores_risco": [
+      "Compressão de múltiplos de SaaS reduz apetite de fundadores por transações",
+      "Custo de capital alto torna difícil financiamento de aquisições alavancadas",
+      "Concorrência de players globais (SAP, Salesforce, Oracle) pressiona margens de SaaS locais",
+      "Retenção de talentos técnicos em pós-aquisição é crítica e frequentemente falha",
+      "Regulação de dados (LGPD) adiciona complexidade em due diligences tecnológicas"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Nuvemshop", "contexto": "Plataforma de e-commerce para PMEs, recentemente com múltiplos ajustados, potencial IPO ou venda estratégica em 2025", "probabilidade": "Alta"},
+      {"empresa": "Dock (ex-Conductor)", "contexto": "Infraestrutura de banking-as-a-service, interesse de bancos globais e PEs para expansão LatAm", "probabilidade": "Média"},
+      {"empresa": "RD Station", "contexto": "Líder em automação de marketing para PMEs, controlada pela TOTVS, possível fusão de ativos ou desinvestimento parcial", "probabilidade": "Baixa"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "ANATEL (telecom/conectividade) e CADE (concentração de mercado digital)",
+      "consideracoes": "LGPD exige análise criteriosa de ativos de dados em due diligence. CADE intensificou escrutínio de aquisições em plataformas digitais com potencial efeito de rede. Operações acima de R$750M de faturamento combinado notificam obrigatoriamente."
+    }
+  },
+  {
+    "setor": "Energia",
+    "termometro": "Ativo",
+    "termometro_emoji": "☀️",
+    "termometro_nivel": 3,
+    "outlook": "A transição energética e o ambicioso programa de privatizações e desinvestimentos da Petrobras mantêm o setor de energia em ritmo ativo de M&A. A expansão das renováveis (solar e eólica) atrai capital estrangeiro, enquanto distribuidoras regionais seguem como alvos de consolidação. O mercado livre de energia acelera a fragmentação competitiva e cria novas oportunidades transacionais.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 21, "volume_bi": 18.3},
+      {"ano": 2020, "num_deals": 17, "volume_bi": 12.7},
+      {"ano": 2021, "num_deals": 26, "volume_bi": 24.5},
+      {"ano": 2022, "num_deals": 29, "volume_bi": 31.2},
+      {"ano": 2023, "num_deals": 23, "volume_bi": 19.8},
+      {"ano": 2024, "num_deals": 21, "volume_bi": 22.4}
+    ],
+    "top_compradores": [
+      {"nome": "Eneva", "tipo": "Estratégico Nacional", "num_deals": 8, "deal_recente": "Parnaíba Gás Natural (2022)"},
+      {"nome": "Vibra Energia", "tipo": "Estratégico Nacional", "num_deals": 5, "deal_recente": "Comerc Energia (2022)"},
+      {"nome": "Cemig", "tipo": "Estratégico Estatal", "num_deals": 4, "deal_recente": "Aliança Energia (2023)"},
+      {"nome": "Pátria Investimentos", "tipo": "PE Nacional", "num_deals": 6, "deal_recente": "Essentia Energia (2023)"},
+      {"nome": "TotalEnergies", "tipo": "Estratégico Internacional", "num_deals": 3, "deal_recente": "Casa dos Ventos (2023)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "CPFL Renováveis",
+        "justificativa": "Portfólio robusto de ativos eólicos e solares com geração estável. Controladora italiana pode avaliar desinvestimento parcial para monetizar ativos e reduzir exposição cambial.",
+        "indicadores": ["Portfólio renovável consolidado", "Controlador estrangeiro", "Geração estável de caixa"]
+      },
+      {
+        "empresa": "Celpe / Coelba (Neoenergia)",
+        "justificativa": "Distribuidoras nordestinas com área de concessão de alto crescimento e potencial de eficiência. Possíveis candidatas a spin-off ou venda parcial da Neoenergia para financiar expansão.",
+        "indicadores": ["Área de concessão crescente", "Potencial de eficiência", "Candidata a spin-off"]
+      },
+      {
+        "empresa": "Âmbar Energia",
+        "justificativa": "Plataforma de geração termelétrica do grupo J&F em reestruturação. Alta alavancagem e necessidade de capital abre espaço para PE ou estratégico na recapitalização.",
+        "indicadores": ["Alta alavancagem", "Grupo em reestruturação", "Necessidade de capital"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 9,
+      "ev_receita_med": 3.1,
+      "tendencia": "estável",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Descarbonização de portfólios energéticos como mandato ESG de fundos soberanos e PEs internacionais",
+      "Energia distribuída e GD solar criando oportunidade de consolidação de instaladores regionais",
+      "Hidrogênio verde: primeiros projetos de M&A envolvendo joint ventures em hubs de exportação",
+      "Desinvestimentos da Petrobras em refino e distribuição atraem estratégicos e PEs",
+      "Mercado livre de energia acelera consolidação de comercializadoras e gestoras de energia"
+    ],
+    "fatores_risco": [
+      "Risco hidrológico eleva incerteza sobre geração e valuation de usinas hidrelétricas",
+      "Mudanças regulatórias na ANEEL e no setor elétrico podem alterar modelo de negócios pós-aquisição",
+      "Financiamento de longo prazo via BNDES com condições incertas dificulta estruturação de deals",
+      "Volatilidade cambial impacta investidores estrangeiros em ativos dolarizados localmente",
+      "Licenciamento ambiental lento aumenta risco de execução em projetos greenfield"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Omega Energia", "contexto": "Portfólio eólico e solar em expansão, possível consolidação com estratégico ou saída do fundo GP Investments", "probabilidade": "Alta"},
+      {"empresa": "Petrobras Distribuidora (remanescente)", "contexto": "Governo avalia novos desinvestimentos de ativos não-estratégicos em distribuição e refino", "probabilidade": "Média"},
+      {"empresa": "Equatorial Goiás", "contexto": "Distribuidora com turnaround concluído, possível ativo de saída para Equatorial monetizar ganhos", "probabilidade": "Baixa"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "ANEEL — Agência Nacional de Energia Elétrica / ANP — Agência Nacional do Petróleo",
+      "consideracoes": "Transações envolvendo concessões de distribuição exigem anuência prévia da ANEEL. Mudanças de controle em blocos exploratórios de petróleo requerem aprovação da ANP. CADE analisa concentração em mercados regionais de distribuição."
+    }
+  },
+  {
+    "setor": "Financeiro",
+    "termometro": "Ativo",
+    "termometro_emoji": "☀️",
+    "termometro_nivel": 3,
+    "outlook": "O setor financeiro mantém ritmo ativo de M&A, impulsionado pela consolidação de corretoras e gestoras de investimentos, crescimento de insurtechs e o amadurecimento do open banking. Grandes bancos buscam acquisições defensivas em tecnologia, enquanto PEs apostam em buy-and-build em nichos como câmbio, gestão de patrimônio e crédito especializado.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 24, "volume_bi": 22.1},
+      {"ano": 2020, "num_deals": 19, "volume_bi": 15.6},
+      {"ano": 2021, "num_deals": 33, "volume_bi": 48.7},
+      {"ano": 2022, "num_deals": 28, "volume_bi": 31.4},
+      {"ano": 2023, "num_deals": 22, "volume_bi": 19.3},
+      {"ano": 2024, "num_deals": 25, "volume_bi": 24.8}
+    ],
+    "top_compradores": [
+      {"nome": "Itaú Unibanco", "tipo": "Estratégico Nacional", "num_deals": 10, "deal_recente": "Avenue Securities (2023)"},
+      {"nome": "XP Inc.", "tipo": "Estratégico Nacional", "num_deals": 8, "deal_recente": "Suno Research (2022)"},
+      {"nome": "BTG Pactual", "tipo": "Estratégico Nacional", "num_deals": 9, "deal_recente": "Banco Pan (2023)"},
+      {"nome": "General Atlantic", "tipo": "PE Internacional", "num_deals": 4, "deal_recente": "Banco Inter (follow-on 2022)"},
+      {"nome": "Warburg Pincus", "tipo": "PE Internacional", "num_deals": 3, "deal_recente": "Chubb Brasil (2023)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Banco Daycoval",
+        "justificativa": "Banco médio com foco em crédito para PMEs e veículos, rentabilidade sólida e família controladora sem sucessor claro. Candidato natural para aquisição por banco maior ou PE.",
+        "indicadores": ["Controle familiar", "Rentabilidade consistente", "Nicho PME/veículos"]
+      },
+      {
+        "empresa": "Grupo SulAmérica Seguros",
+        "justificativa": "Operações de seguros de vida e saúde após cisão da rede hospitalar, com base de clientes ampla e canais de distribuição consolidados. Alvo estratégico para bancassurance.",
+        "indicadores": ["Base de clientes ampla", "Pós-cisão hospitalar", "Candidato a bancassurance"]
+      },
+      {
+        "empresa": "Órama Investimentos",
+        "justificativa": "Plataforma open de investimentos com crescimento em AuA e modelo escalável. Possível alvo de banco digital ou consolidador de wealth management para distribuição.",
+        "indicadores": ["Crescimento de AuA", "Modelo open scalável", "Alvo de wealth management"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 11,
+      "ev_receita_med": 2.4,
+      "tendencia": "estável",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Bancassurance como estratégia de cross-sell e fidelização: bancos adquirem seguradoras e vice-versa",
+      "Consolidação de corretoras independentes pela XP e BTG em busca de escala e AuA",
+      "Embedded finance viabiliza M&A entre fintechs e varejistas ou plataformas de pagamento",
+      "Open banking cria oportunidades para aquisição de infraestrutura de dados e scoring de crédito",
+      "Buy-and-build em câmbio e remessas internacionais com consolidação de correspondentes bancários"
+    ],
+    "fatores_risco": [
+      "Juros altos elevam inadimplência e comprimem margens de instituições de crédito adquiridas",
+      "Regulação do Banco Central para fintechs pode alterar modelo de negócios pós-aquisição",
+      "Integração de sistemas legados bancários gera custos e riscos operacionais elevados",
+      "Concorrência de neobanks pressiona margens e valuation de bancos tradicionais médios",
+      "Risco de reputação em aquisições de carteiras de crédito problemáticas ou subprime"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Méliuz (CASH3)", "contexto": "Plataforma de cashback e serviços financeiros em repositionamento, múltiplos baixos atraem interesse de bancos digitais", "probabilidade": "Alta"},
+      {"empresa": "Wiz Soluções", "contexto": "Distribuidora de seguros com carteira diversificada, controle da Caixa Econômica pode ser reestruturado", "probabilidade": "Média"},
+      {"empresa": "Grupo Frente Corretora", "contexto": "Corretora independente de câmbio em crescimento, candidata a consolidação por banco de médio porte", "probabilidade": "Média"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "Banco Central do Brasil (BACEN) e SUSEP — Superintendência de Seguros Privados",
+      "consideracoes": "Mudança de controle acionário de instituições financeiras exige aprovação prévia do Banco Central. Aquisições de seguradoras passam por SUSEP. CADE analisa concentração em mercados bancários regionais e segmentos específicos de crédito."
+    }
+  },
+  {
+    "setor": "Agronegócio",
+    "termometro": "Ativo",
+    "termometro_emoji": "☀️",
+    "termometro_nivel": 3,
+    "outlook": "O agronegócio brasileiro mantém posição de destaque global, com M&A concentrado em proteínas, insumos agrícolas, logística de exportação e agtechs. A agenda ESG pressiona consolidadores a buscar ativos de menor pegada de carbono, enquanto o ciclo de commodities favorece valuation de ativos de terra e processamento. Agtechs de precisão e bioinsumos emergem como novo vetor transacional.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 16, "volume_bi": 14.2},
+      {"ano": 2020, "num_deals": 13, "volume_bi": 11.8},
+      {"ano": 2021, "num_deals": 21, "volume_bi": 28.6},
+      {"ano": 2022, "num_deals": 25, "volume_bi": 34.1},
+      {"ano": 2023, "num_deals": 20, "volume_bi": 21.7},
+      {"ano": 2024, "num_deals": 18, "volume_bi": 16.3}
+    ],
+    "top_compradores": [
+      {"nome": "JBS", "tipo": "Estratégico Nacional", "num_deals": 11, "deal_recente": "Vivera Foods (2023)"},
+      {"nome": "Marfrig", "tipo": "Estratégico Nacional", "num_deals": 7, "deal_recente": "BRF (bloco adicional 2023)"},
+      {"nome": "Pátria Agro", "tipo": "PE Nacional", "num_deals": 6, "deal_recente": "Terras do Brasil (2022)"},
+      {"nome": "Raízen", "tipo": "Estratégico Nacional", "num_deals": 5, "deal_recente": "Biosev (2021)"},
+      {"nome": "Nutrien / Mosaic", "tipo": "Estratégico Internacional", "num_deals": 4, "deal_recente": "Copersucar parceria (2022)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "São Martinho (SMTO3)",
+        "justificativa": "Usina sucroenergética com operações eficientes e exposição a etanol de segunda geração. Candidata a integração vertical com distribuidora de combustíveis ou trading internacional.",
+        "indicadores": ["Eficiência operacional", "Exposição a etanol 2G", "Candidata a integração vertical"]
+      },
+      {
+        "empresa": "Boa Safra Sementes (SOJA3)",
+        "justificativa": "Líder em sementes de soja com crescimento rápido e mercado ainda fragmentado. Alvo natural para multinacional de insumos agrícolas como Bayer, Syngenta ou BASF.",
+        "indicadores": ["Mercado fragmentado", "Crescimento acelerado", "Alvo para multinacional"]
+      },
+      {
+        "empresa": "Lavoro Agro (LVRO)",
+        "justificativa": "Maior consolidador de revendas agropecuárias do Brasil, modelo buy-and-build com espaço para aceleração ou saída estratégica para trading global.",
+        "indicadores": ["Modelo buy-and-build", "Maior consolidador de revendas", "Candidata a saída estratégica"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 8,
+      "ev_receita_med": 1.4,
+      "tendencia": "estável",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Consolidação de distribuidores de insumos (revendas agropecuárias) em mercado altamente fragmentado",
+      "Agtech e agricultura de precisão como vetor de M&A por grandes tradings e insumos",
+      "Buy-and-build em bioinsumos e defensivos biológicos, substituindo químicos tradicionais",
+      "Integração logística de exportação: consolidação de armazéns, ferrovias e terminais portuários",
+      "Proteínas alternativas e plant-based atraem capital de PE e estratégicos do setor de alimentos"
+    ],
+    "fatores_risco": [
+      "Volatilidade de preços de commodities pode comprimir rentabilidade e valuation de ativos",
+      "Risco climático (seca, geadas) cria incerteza sobre resultado de ativos agrícolas pós-aquisição",
+      "Barreiras sanitárias internacionais impactam exportações do setor de proteínas",
+      "Questões de regularidade fundiária adicionam risco jurídico em aquisições de terras",
+      "Pressão ESG e desmatamento sob escrutínio de investidores e parceiros comerciais globais"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Agrogalaxy", "contexto": "Revendedora com expansão acelerada e alavancagem alta, possível alvo ou candidata a reestruturação", "probabilidade": "Alta"},
+      {"empresa": "Copersucar", "contexto": "Cooperativa de trading de açúcar e etanol, abertura para parceiro estratégico ou PE com tese de exportação", "probabilidade": "Média"},
+      {"empresa": "Simpar / JSL Agro", "contexto": "Divisão de logística agrícola em crescimento, possível spin-off para capturar valor setorial específico", "probabilidade": "Baixa"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "MAPA — Ministério da Agricultura e CADE",
+      "consideracoes": "Aquisições de terras agrícolas por estrangeiros têm restrições legais específicas no Brasil (Lei 5.709/71). CADE monitora concentração em insumos (sementes, defensivos) e proteínas. MAPA pode exigir aprovações sanitárias em fusões de frigoríficos exportadores."
+    }
+  },
+  {
+    "setor": "Telecomunicações",
+    "termometro": "Morno",
+    "termometro_emoji": "🌤️",
+    "termometro_nivel": 2,
+    "outlook": "O setor de telecomunicações passa por uma fase de consolidação estrutural após a aquisição da Oi pelos três grandes operadores. O foco de M&A se desloca para infraestrutura passiva (fibra e torres), ISPs regionais e conteúdo. O leilão do 5G gerou investimentos relevantes, mas o pipeline de grandes transações entre operadoras está limitado pelo alto endividamento e pela regulação da Anatel.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 12, "volume_bi": 9.4},
+      {"ano": 2020, "num_deals": 10, "volume_bi": 7.8},
+      {"ano": 2021, "num_deals": 19, "volume_bi": 42.3},
+      {"ano": 2022, "num_deals": 14, "volume_bi": 11.6},
+      {"ano": 2023, "num_deals": 11, "volume_bi": 8.2},
+      {"ano": 2024, "num_deals": 9, "volume_bi": 6.7}
+    ],
+    "top_compradores": [
+      {"nome": "Claro (América Móvil)", "tipo": "Estratégico Internacional", "num_deals": 7, "deal_recente": "Ativos Oi Móvel (2022)"},
+      {"nome": "Vivo (Telefónica)", "tipo": "Estratégico Internacional", "num_deals": 6, "deal_recente": "Ativos Oi Fibra (2022)"},
+      {"nome": "TIM Brasil", "tipo": "Estratégico Internacional", "num_deals": 5, "deal_recente": "Ativos Oi Móvel (parcela 2022)"},
+      {"nome": "IHS Towers", "tipo": "Infraestrutura Internacional", "num_deals": 4, "deal_recente": "Torres TIM (2022)"},
+      {"nome": "Desktop / Brisanet", "tipo": "Estratégico Nacional ISP", "num_deals": 6, "deal_recente": "ISPs regionais Nordeste (2023)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Brisanet (BRIT3)",
+        "justificativa": "ISP regional com expansão agressiva no Nordeste, alta alavancagem e necessidade de capital. Candidata a aquisição por Claro ou Vivo para ampliar cobertura de fibra na região.",
+        "indicadores": ["Alta alavancagem", "Expansão regional agressiva", "Candidata a consolidação"]
+      },
+      {
+        "empresa": "Eletronet",
+        "justificativa": "Rede de fibra ótica de alta capacidade sobre infraestrutura da Eletrobras, com extenso backbone nacional. Ativo de infraestrutura passiva com múltiplos atrativos para PE ou operadora.",
+        "indicadores": ["Infraestrutura passiva", "Backbone nacional extenso", "Múltiplos atrativos"]
+      },
+      {
+        "empresa": "Desktop (DESK3)",
+        "justificativa": "ISP regional em expansão com modelo de compra de provedores locais, alavancagem crescente. Possível alvo de consolidador maior ou saída de PE.",
+        "indicadores": ["Modelo buy-and-build ISP", "Alavancagem crescente", "Candidato a saída de PE"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 7,
+      "ev_receita_med": 2.1,
+      "tendencia": "baixa",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Separação estrutural de infraestrutura (fibra/torres) e serviços como tese de criação de valor",
+      "Consolidação de ISPs regionais por grandes operadoras ou PEs especializados em infraestrutura",
+      "Tower companies ampliando portfólio via aquisições de torres de operadoras endividadas",
+      "Convergência de serviços (voz, dados, TV, financeiros) como estratégia de retenção e ARPU",
+      "5G como catalisador de M&A em IoT, cidades inteligentes e soluções B2B de conectividade"
+    ],
+    "fatores_risco": [
+      "Alto endividamento das grandes operadoras limita capacidade de aquisições relevantes",
+      "Regulação da Anatel com obrigações de cobertura pode encarecer ativos adquiridos",
+      "Pressão de preço em banda larga e voz reduz ARPU e comprime valuation de ISPs",
+      "Necessidade de investimento contínuo em 5G limita disponibilidade de caixa para M&A",
+      "Risco de renegociação de contratos de compartilhamento de infraestrutura pós-fusões"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Algar Telecom", "contexto": "Operadora regional familiar com cobertura no Triângulo Mineiro, possível saída da família por sucessão", "probabilidade": "Média"},
+      {"empresa": "Hughes do Brasil (Echostar)", "contexto": "Serviços de satélite e internet rural, possível desinvestimento com avanço do Starlink", "probabilidade": "Média"},
+      {"empresa": "Winity (Oi remanescente)", "contexto": "Ativos de rede 4G em processo de monetização, possível venda de frequências ou infraestrutura", "probabilidade": "Alta"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "ANATEL — Agência Nacional de Telecomunicações",
+      "consideracoes": "Mudanças de controle em concessionárias de telecomunicações exigem aprovação da Anatel. CADE analisa concentração em mercados regionais de banda larga e serviços móveis. Acordos de compartilhamento de rede (RAN sharing) sujeitos a regulamentação específica."
+    }
+  },
+  {
+    "setor": "Consumo Cíclico",
+    "termometro": "Morno",
+    "termometro_emoji": "🌤️",
+    "termometro_nivel": 2,
+    "outlook": "O setor de consumo cíclico enfrenta ambiente desafiador com juros altos e compressão da renda disponível, limitando o apetite por grandes transações. No entanto, a digitalização do varejo e a consolidação de marcas regionais mantêm um fluxo moderado de M&A. O segmento de lifestyle e marcas premium mostra maior resiliência, enquanto varejo de eletrodomésticos e móveis sofre com inadimplência e concorrência do e-commerce asiático.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 15, "volume_bi": 7.3},
+      {"ano": 2020, "num_deals": 11, "volume_bi": 4.8},
+      {"ano": 2021, "num_deals": 23, "volume_bi": 16.2},
+      {"ano": 2022, "num_deals": 18, "volume_bi": 9.4},
+      {"ano": 2023, "num_deals": 13, "volume_bi": 5.7},
+      {"ano": 2024, "num_deals": 11, "volume_bi": 4.9}
+    ],
+    "top_compradores": [
+      {"nome": "Grupo Soma (SOMA3)", "tipo": "Estratégico Nacional", "num_deals": 8, "deal_recente": "Hering (2021)"},
+      {"nome": "Allos (ex-brMalls)", "tipo": "Estratégico Nacional", "num_deals": 5, "deal_recente": "Iguatemi parceria (2023)"},
+      {"nome": "Magazine Luiza (MGLU3)", "tipo": "Estratégico Nacional", "num_deals": 7, "deal_recente": "Kabum (2021)"},
+      {"nome": "L Catterton", "tipo": "PE Internacional", "num_deals": 3, "deal_recente": "Arezzo (participação 2022)"},
+      {"nome": "Patria Investments", "tipo": "PE Nacional", "num_deals": 4, "deal_recente": "Rede de franquias alimentação (2023)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Tok&Stok",
+        "justificativa": "Varejista de móveis e decoração controlada por PE (Carlyle) com busca de saída. Marca reconhecida com operação omnichannel, candidata a aquisição por estratégico ou novo PE.",
+        "indicadores": ["PE buscando saída", "Marca reconhecida", "Operação omnichannel"]
+      },
+      {
+        "empresa": "Arezzo&Co (ARZZ3)",
+        "justificativa": "Plataforma de marcas de moda e calçados com track record de aquisições bem-sucedidas. Possível candidata a fusão com Grupo Soma para criar mega-plataforma de lifestyle.",
+        "indicadores": ["Plataforma de marcas", "Track record de M&A", "Candidata a fusão estratégica"]
+      },
+      {
+        "empresa": "Multilaser (MLAS3)",
+        "justificativa": "Fabricante de eletrônicos e produtos de consumo com margens comprimidas e endividamento crescente. Possível alvo de reestruturação ou aquisição por estratégico asiático.",
+        "indicadores": ["Margens comprimidas", "Endividamento crescente", "Candidata a reestruturação"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 9,
+      "ev_receita_med": 0.9,
+      "tendencia": "baixa",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Consolidação de varejo regional por plataformas omnichannel nacionais em busca de escala",
+      "Criação de plataformas de marcas de lifestyle unindo moda, calçados e acessórios",
+      "E-commerce vs brick-and-mortar: aquisições de digitais por físicos e vice-versa para equilíbrio de canais",
+      "Marcas premium e aspiracionais mostram resiliência e atraem capital de PE especializado em consumo",
+      "Buy-and-build em franquias de alimentação rápida explorando crescimento do food service pós-pandemia"
+    ],
+    "fatores_risco": [
+      "Juros altos comprimem consumo de bens duráveis e reduzem valuation de varejistas",
+      "Concorrência de e-commerces asiáticos (Shopee, Shein) pressiona margens e volume de vendas",
+      "Inadimplência alta em vendas parceladas compromete qualidade de carteiras de recebíveis",
+      "Integração de sistemas de e-commerce e lojas físicas gera custos operacionais relevantes",
+      "Sazonalidade de resultado e dependência de datas comerciais dificulta avaliação de ativos"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Vivara (VIVA3)", "contexto": "Joalheria premium com expansão acelerada, família controladora pode avaliar parceiro estratégico ou PE para internacionalização", "probabilidade": "Média"},
+      {"empresa": "Track&Field (TFCO4)", "contexto": "Marca de vestuário esportivo premium em crescimento, candidata a integração em plataforma de lifestyle", "probabilidade": "Média"},
+      {"empresa": "Lojas Quero-Quero (LJQQ3)", "contexto": "Varejo de material de construção no Sul com dificuldades operacionais, possível alvo de consolidador regional", "probabilidade": "Alta"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "CADE e PROCON / SENACON (proteção ao consumidor)",
+      "consideracoes": "CADE analisa concentração em mercados regionais de varejo. Aquisições de redes com presença nacional relevante passam por análise de efeitos horizontais e verticais. Operações com marketplaces sujeitas a análise de plataformas digitais."
+    }
+  },
+  {
+    "setor": "Consumo Não-Cíclico",
+    "termometro": "Ativo",
+    "termometro_emoji": "☀️",
+    "termometro_nivel": 3,
+    "outlook": "Alimentos, bebidas e cuidados pessoais mostram resiliência mesmo em ciclos de juros altos, mantendo fluxo regular de M&A. A premiumização impulsiona aquisições de marcas aspiracionais, enquanto a consolidação de players regionais de alimentos segue como tese consistente. Multinacionais reorganizam portfólios com desinvestimentos de categorias não-core, criando oportunidades para estratégicos nacionais e PEs.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 14, "volume_bi": 11.4},
+      {"ano": 2020, "num_deals": 12, "volume_bi": 8.9},
+      {"ano": 2021, "num_deals": 18, "volume_bi": 19.3},
+      {"ano": 2022, "num_deals": 20, "volume_bi": 22.7},
+      {"ano": 2023, "num_deals": 17, "volume_bi": 15.1},
+      {"ano": 2024, "num_deals": 16, "volume_bi": 13.8}
+    ],
+    "top_compradores": [
+      {"nome": "Ambev (ABEV3)", "tipo": "Estratégico Nacional", "num_deals": 7, "deal_recente": "Quinco (bebidas não-alcoólicas 2023)"},
+      {"nome": "M. Dias Branco (MDIA3)", "tipo": "Estratégico Nacional", "num_deals": 5, "deal_recente": "Jasmine Alimentos (2022)"},
+      {"nome": "Camil Alimentos (CAML3)", "tipo": "Estratégico Nacional", "num_deals": 6, "deal_recente": "SLC Alimentos (2022)"},
+      {"nome": "Advent International", "tipo": "PE Internacional", "num_deals": 4, "deal_recente": "Nutriza (2023)"},
+      {"nome": "Unilever Brasil", "tipo": "Estratégico Internacional", "num_deals": 3, "deal_recente": "Quatro Rodas foods (2022)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Três Corações Alimentos",
+        "justificativa": "Líder em café torrado e moído com joint venture familiar complexa e possível divergência de estratégia entre sócios. Candidata a consolidação por Melitta, JDE ou PE especializado em consumo.",
+        "indicadores": ["Joint venture complexa", "Liderança em café", "Divergência entre sócios"]
+      },
+      {
+        "empresa": "Bombril (BOBR4)",
+        "justificativa": "Marca icônica de cuidados domésticos com estrutura operacional desatualizada e governance complexa. Reestruturação financeira abre espaço para aquisição estratégica por multinacional de limpeza.",
+        "indicadores": ["Marca icônica", "Estrutura desatualizada", "Reestruturação financeira"]
+      },
+      {
+        "empresa": "Pandurata (Bauducco)",
+        "justificativa": "Líder em panetone e snacks com estrutura familiar e mercado crescente em exportações. Possível candidata a PE com tese de internacionalização ou fusão com M. Dias Branco.",
+        "indicadores": ["Controle familiar", "Liderança em snacks", "Potencial de internacionalização"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 10,
+      "ev_receita_med": 1.6,
+      "tendencia": "estável",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Premiumização e trading-up de categorias como café, snacks e bebidas funcionais",
+      "Private label como alavanca de consolidação: redes de varejo adquirem fabricantes",
+      "Consolidação regional de processadores de grãos, derivados de leite e massas",
+      "Multinacionais desinvestem categorias maduras criando oportunidades para estratégicos locais",
+      "Alimentos saudáveis e plant-based atraem capital de PE e estratégicos em busca de crescimento"
+    ],
+    "fatores_risco": [
+      "Volatilidade de custos de commodities agrícolas comprime margens de processadores de alimentos",
+      "Poder de barganha crescente de grandes varejistas comprime preços e rentabilidade",
+      "Concorrência de marcas próprias de varejistas pressiona marcas de médio tier",
+      "Câmbio impacta competitividade de exportadores e custo de ingredientes importados",
+      "Mudanças regulatórias de rotulagem e publicidade de alimentos podem afetar categorias específicas"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Coty Brasil", "contexto": "Divisão de cosméticos em reestruturação global, possível desinvestimento das operações brasileiras para PE local", "probabilidade": "Alta"},
+      {"empresa": "Vigor Alimentos (VGOR3)", "contexto": "Laticínios e derivados com controle do grupo mexicano Lala, possível saída estratégica do Brasil", "probabilidade": "Média"},
+      {"empresa": "Fleischmann (AB InBev)", "contexto": "Divisão de fermentos e ingredientes, candidata a carve-out como ativo não-core da cervejaria", "probabilidade": "Baixa"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "ANVISA (alimentos e cosméticos) e CADE",
+      "consideracoes": "ANVISA regula aprovações de produtos e pode impactar integrações de portfólio. CADE analisa concentração em categorias específicas de alimentos e cuidados pessoais. Exportadores de proteínas sujeitos a aprovações sanitárias de mercados de destino."
+    }
+  },
+  {
+    "setor": "Infraestrutura",
+    "termometro": "Ativo",
+    "termometro_emoji": "☀️",
+    "termometro_nivel": 3,
+    "outlook": "O setor de infraestrutura mantém fluxo ativo de M&A impulsionado pelo programa federal de concessões e PPPs, pela transferência de ativos da segunda geração de concessões e pelo interesse crescente de fundos de infraestrutura internacionais. Rodovias, portos e saneamento lideram o pipeline, com crescente interesse em ferrovias após o marco regulatório das ferrovias de 2021.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 13, "volume_bi": 16.8},
+      {"ano": 2020, "num_deals": 10, "volume_bi": 12.3},
+      {"ano": 2021, "num_deals": 16, "volume_bi": 28.4},
+      {"ano": 2022, "num_deals": 18, "volume_bi": 31.7},
+      {"ano": 2023, "num_deals": 15, "volume_bi": 24.6},
+      {"ano": 2024, "num_deals": 14, "volume_bi": 21.3}
+    ],
+    "top_compradores": [
+      {"nome": "CCR (CCRO3)", "tipo": "Estratégico Nacional", "num_deals": 9, "deal_recente": "Metrô Bahia (2023)"},
+      {"nome": "EcoRodovias (ECOR3)", "tipo": "Estratégico Nacional", "num_deals": 6, "deal_recente": "Ecovias dos Imigrantes (renovação 2022)"},
+      {"nome": "Pátria Investimentos", "tipo": "PE Nacional", "num_deals": 8, "deal_recente": "Aeroportos do Centro-Oeste (2022)"},
+      {"nome": "Brookfield Asset Management", "tipo": "PE Internacional", "num_deals": 5, "deal_recente": "BioRitmo / portos (2022)"},
+      {"nome": "Vinci Partners Infra", "tipo": "PE Nacional", "num_deals": 4, "deal_recente": "Terminal portuário Santos (2023)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Grupo Tegma (TGMA3)",
+        "justificativa": "Logística de veículos e armazenagem com ativos especializados. Potencial alvo de consolidador logístico ou PE com tese de plataforma de infraestrutura logística.",
+        "indicadores": ["Ativos especializados", "Nicho logística de veículos", "Candidata a PE"]
+      },
+      {
+        "empresa": "Santos Brasil (STBP3)",
+        "justificativa": "Maior operadora de contêineres do Brasil, com posicionamento estratégico no Porto de Santos. Alvo de interesse de terminais internacionais como DP World ou PSA.",
+        "indicadores": ["Posição estratégica", "Porto de Santos", "Interesse internacional"]
+      },
+      {
+        "empresa": "Hidrovias do Brasil (HBSA3)",
+        "justificativa": "Plataforma de transporte hidroviário com contratos de longo prazo, endividamento elevado e necessidade de capex. Possível alvo de PE especializado em infraestrutura ou comprador estratégico do agronegócio.",
+        "indicadores": ["Contratos de longo prazo", "Endividamento elevado", "Necessidade de capex"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 11,
+      "ev_receita_med": 3.8,
+      "tendencia": "alta",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Concessões de segunda geração: renovação antecipada de contratos com capex adicional e prazo estendido",
+      "Portos e terminais como ativos de infraestrutura crítica com fluxo de receita indexado ao comércio exterior",
+      "Ferrovias privadas: marco regulatório abre espaço para novos entrantes e M&A no setor",
+      "Saneamento básico: marco legal de 2020 catalisa privatizações de companhias estaduais deficitárias",
+      "Aeroportos regionais: segunda rodada de concessões com foco em conectividade do interior"
+    ],
+    "fatores_risco": [
+      "Risco regulatório em reequilíbrios de contratos de concessão por mudanças de governo",
+      "Financiamento de longo prazo depende de BNDES e mercado de capitais com condições voláteis",
+      "Demanda por infraestrutura sensível ao ciclo econômico e ao comércio exterior",
+      "Risco ambiental e de licenciamento em projetos de expansão e renovação de concessões",
+      "Exposição a litígios trabalhistas e de fornecedores em ativos com histórico de subinvestimento"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "ViaRio / Linha Amarela", "contexto": "Concessão rodoviária municipal com litígios em curso, possível devolução e relicitação abre oportunidade", "probabilidade": "Alta"},
+      {"empresa": "Companhia Docas do Paraná (CDP)", "contexto": "Porto público em processo de privatização, ativos de granéis e contêineres atraem operadores internacionais", "probabilidade": "Média"},
+      {"empresa": "COSAN Infraestrutura", "contexto": "Ativos de dutos e terminais da Cosan, possível reorganização de portfólio com monetização de ativos maduros", "probabilidade": "Média"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "ANTT (rodovias/ferrovias), ANTAQ (portos), ANAC (aeroportos) e TCU",
+      "consideracoes": "Transferência de concessões exige anuência do poder concedente e agência reguladora setorial. TCU pode revisar termos de relicitações e aditivos contratuais. CADE analisa concentração em corredores logísticos estratégicos."
+    }
+  },
+  {
+    "setor": "Imobiliário",
+    "termometro": "Morno",
+    "termometro_emoji": "🌤️",
+    "termometro_nivel": 2,
+    "outlook": "O setor imobiliário opera em ritmo moderado de M&A, pressionado pelo ambiente de juros altos que eleva o custo de capital e comprime os múltiplos das incorporadoras. O segmento econômico (MCMV) mostra maior resiliência, enquanto o residencial médio-alto sofre mais. FIIs de logística e lajes corporativas permanecem ativos em aquisições, com interesse crescente em built-to-rent e imóveis industriais.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 11, "volume_bi": 9.6},
+      {"ano": 2020, "num_deals": 8, "volume_bi": 6.4},
+      {"ano": 2021, "num_deals": 17, "volume_bi": 18.9},
+      {"ano": 2022, "num_deals": 14, "volume_bi": 12.7},
+      {"ano": 2023, "num_deals": 10, "volume_bi": 7.3},
+      {"ano": 2024, "num_deals": 9, "volume_bi": 6.8}
+    ],
+    "top_compradores": [
+      {"nome": "Cyrela (CYRE3)", "tipo": "Estratégico Nacional", "num_deals": 6, "deal_recente": "Living reposicionamento (2022)"},
+      {"nome": "MRV Engenharia (MRVE3)", "tipo": "Estratégico Nacional", "num_deals": 5, "deal_recente": "Luggo built-to-rent (2022)"},
+      {"nome": "Allos (ALOS3)", "tipo": "Estratégico Nacional", "num_deals": 4, "deal_recente": "Portfólio shoppings regionais (2023)"},
+      {"nome": "Vinci Partners Real Estate", "tipo": "PE/FII Nacional", "num_deals": 5, "deal_recente": "Portfólio logístico SP (2023)"},
+      {"nome": "GLP (Global Logistic Properties)", "tipo": "Estratégico Internacional", "num_deals": 4, "deal_recente": "Galpões e-commerce SP/RJ (2022)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Tegra Incorporadora",
+        "justificativa": "Incorporadora de médio-alto padrão em São Paulo, controlada por PE com horizonte de saída próximo. Ativo de marca consolidada e landbank em bairros premium.",
+        "indicadores": ["PE com horizonte de saída", "Marca consolidada SP", "Landbank premium"]
+      },
+      {
+        "empresa": "Helbor (HBOR3)",
+        "justificativa": "Incorporadora com foco em médio-alto padrão, landbank em praças premium mas com alavancagem elevada. Candidata a consolidação por Cyrela ou Eztec para ganhos de escala.",
+        "indicadores": ["Landbank em praças premium", "Alta alavancagem", "Candidata a consolidação"]
+      },
+      {
+        "empresa": "BR Properties (BRPR3)",
+        "justificativa": "Plataforma de lajes corporativas e galpões com portfólio em revisão estratégica. Ativos maduros podem atrair FIIs específicos ou consolidadores de imóveis comerciais.",
+        "indicadores": ["Portfólio maduro", "Revisão estratégica", "Candidata a FII"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 8,
+      "ev_receita_med": 1.2,
+      "tendencia": "baixa",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Segmento econômico (MCMV) como proteção contra ciclo de juros altos com subsídio governamental",
+      "Built-to-rent: plataformas de aluguel residencial gerenciado como classe de ativo institucional",
+      "Imóveis logísticos e industriais como beneficiários do e-commerce e reshoring de manufatura",
+      "Consolidação de shoppings regionais por plataformas de gestão de ativos como Allos e Multiplan",
+      "Conversão de ativos de escritório para residencial em regiões centrais como resposta ao trabalho híbrido"
+    ],
+    "fatores_risco": [
+      "Juros altos encarecem financiamento imobiliário e reduzem demanda de compradores finais",
+      "Custo de construção elevado (INCC) comprime margens de lançamentos e aquisições de landbank",
+      "Distrato de vendas em incorporações impacta receita e caixa de incorporadoras adquiridas",
+      "Concentração de landbank em uma praça eleva risco de oversupply e pressão de preços",
+      "Regulação municipal de uso e ocupação do solo pode limitar potencial construtivo de terrenos adquiridos"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Trisul (TRIS3)", "contexto": "Incorporadora focada em SP com landbank de qualidade, família controladora pode avaliar fusão para ganhar escala", "probabilidade": "Média"},
+      {"empresa": "Even (EVEN3)", "contexto": "Incorporadora médio-alto com dívida gerenciável e marca consolidada, candidata a fusão com Cyrela ou Eztec", "probabilidade": "Média"},
+      {"empresa": "Portfólio FII de lajes RJ", "contexto": "Gestores avaliando consolidação de FIIs de lajes corporativas no Rio em ambiente de vacância alta", "probabilidade": "Alta"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "CVM (FIIs) e prefeituras municipais (licenciamento)",
+      "consideracoes": "FIIs listados em bolsa regulados pela CVM com regras específicas para aquisição de ativos. Incorporações dependem de aprovações municipais de projetos. CADE raramente atua no setor, exceto em casos de concentração de shoppings em mercados regionais."
+    }
+  },
+  {
+    "setor": "Materiais Básicos",
+    "termometro": "Frio",
+    "termometro_emoji": "❄️",
+    "termometro_nivel": 1,
+    "outlook": "O setor de materiais básicos opera no ritmo mais lento de M&A, pressionado pela desaceleração da China, volatilidade de commodities e custo de capital elevado. Mineração e siderurgia passam por ciclo de consolidação defensiva, enquanto celulose e papel mantêm atividade moderada. A transição energética emerge como novo driver, com minerais críticos para baterias (lítio, níquel, cobalto) atraindo interesse crescente de estratégicos globais.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 9, "volume_bi": 12.4},
+      {"ano": 2020, "num_deals": 7, "volume_bi": 8.7},
+      {"ano": 2021, "num_deals": 12, "volume_bi": 21.3},
+      {"ano": 2022, "num_deals": 10, "volume_bi": 14.6},
+      {"ano": 2023, "num_deals": 7, "volume_bi": 9.2},
+      {"ano": 2024, "num_deals": 6, "volume_bi": 7.8}
+    ],
+    "top_compradores": [
+      {"nome": "Vale (VALE3)", "tipo": "Estratégico Nacional", "num_deals": 7, "deal_recente": "Aliança Mineração (2022)"},
+      {"nome": "Suzano (SUZB3)", "tipo": "Estratégico Nacional", "num_deals": 5, "deal_recente": "Facepa (2021)"},
+      {"nome": "Gerdau (GGBR4)", "tipo": "Estratégico Nacional", "num_deals": 4, "deal_recente": "Grupo Diaco Colômbia (2022)"},
+      {"nome": "Anglo American", "tipo": "Estratégico Internacional", "num_deals": 3, "deal_recente": "Projeto Minas-Rio expansão (2023)"},
+      {"nome": "Kinross Gold", "tipo": "Estratégico Internacional", "num_deals": 2, "deal_recente": "Paracatu expansão (2022)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Aura Minerals (AURA33)",
+        "justificativa": "Mineradora de ouro e cobre com ativos no Brasil, México e Honduras. Escala ainda pequena e necessidade de capital para expansão a tornam candidata a aquisição por major de mineração.",
+        "indicadores": ["Escala pequena", "Necessidade de capital", "Portfólio diversificado geograficamente"]
+      },
+      {
+        "empresa": "Imerys Brasil",
+        "justificativa": "Divisão brasileira de minerais industriais (caulim, talco) da multinacional francesa, possível candidata a desinvestimento como parte de reestruturação global de portfólio.",
+        "indicadores": ["Divisão de multinacional", "Candidata a desinvestimento", "Minerais industriais de nicho"]
+      },
+      {
+        "empresa": "Acrisol / Sigma Lithium (parcelas)",
+        "justificativa": "Produtores de lítio no Vale do Jequitinhonha com ativos estratégicos para cadeia de baterias. Interesse crescente de montadoras e fabricantes de baterias asiáticos e europeus.",
+        "indicadores": ["Lítio estratégico", "Interesse de montadoras globais", "Cadeia de baterias"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 6,
+      "ev_receita_med": 1.1,
+      "tendencia": "baixa",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Minerais críticos para transição energética (lítio, níquel, cobalto, grafite) como novo driver de M&A",
+      "Consolidação defensiva em aço para reduzir sobrecapacidade e melhorar disciplina de preços",
+      "Celulose: expansão de capacidade via greenfield e aquisições de ativos florestais",
+      "Descarbonização da siderurgia cria demanda por aquisições de tecnologia de hidrogênio verde",
+      "Desinvestimento de ativos de mineração não-core por grandes mineradoras globais para foco estratégico"
+    ],
+    "fatores_risco": [
+      "Dependência da China como comprador de minério de ferro cria volatilidade estrutural de preços",
+      "Risco ambiental e de tailings em mineração após Mariana e Brumadinho eleva custo regulatório e reputacional",
+      "Ciclo de commodities descendente comprime valuation e retornos esperados de ativos",
+      "Licenciamento ambiental extenso para novos projetos de mineração limita crescimento orgânico e M&A",
+      "Pressão ESG de investidores institucionais reduz universo de compradores para ativos de carvão e ferro"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Sigma Lithium (SGML)", "contexto": "Produtora de lítio em Minas Gerais com interesse confirmado de montadoras asiáticas e especulações de aquisição", "probabilidade": "Alta"},
+      {"empresa": "CSN Mineração (CMIN3)", "contexto": "Braço de mineração de ferro da CSN, possível parceria estratégica com minor ou trading asiático para garantir offtake", "probabilidade": "Média"},
+      {"empresa": "Klabin (KLBN11)", "contexto": "Produtora de papel e celulose avalia expansão via aquisição florestal ou de planta em região Sul", "probabilidade": "Baixa"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "DNPM/ANM — Agência Nacional de Mineração e IBAMA",
+      "consideracoes": "Transferência de direitos minerários exige aprovação da ANM. Licenciamento ambiental pelo IBAMA e órgãos estaduais é crítico e pode levar anos. Mineração em terras indígenas e de preservação tem restrições legais severas. CADE analisa concentração em minérios com poucos players."
+    }
+  },
+  {
+    "setor": "Educação",
+    "termometro": "Morno",
+    "termometro_emoji": "🌤️",
+    "termometro_nivel": 2,
+    "outlook": "O setor educacional passa por fase de digestão pós-ciclo de consolidação agressiva do ensino superior, com foco em desalavancagem e rentabilização. O PROUNI e FIES seguem como variáveis regulatórias críticas. Edtechs mostram atividade moderada, mas avaliações mais baixas. O ensino K-12 privado emerge como nova fronteira de consolidação, com PEs apostando em buy-and-build em colégios de médio-alto padrão.",
+    "historico_deals": [
+      {"ano": 2019, "num_deals": 16, "volume_bi": 7.8},
+      {"ano": 2020, "num_deals": 12, "volume_bi": 5.4},
+      {"ano": 2021, "num_deals": 20, "volume_bi": 14.3},
+      {"ano": 2022, "num_deals": 15, "volume_bi": 9.1},
+      {"ano": 2023, "num_deals": 11, "volume_bi": 5.6},
+      {"ano": 2024, "num_deals": 10, "volume_bi": 4.9}
+    ],
+    "top_compradores": [
+      {"nome": "Cogna Educação (COGN3)", "tipo": "Estratégico Nacional", "num_deals": 10, "deal_recente": "Vasta plataforma K-12 (reorg 2022)"},
+      {"nome": "Ânima Educação (ANIM3)", "tipo": "Estratégico Nacional", "num_deals": 7, "deal_recente": "HSM (educação executiva 2022)"},
+      {"nome": "Yduqs (YDUQ3)", "tipo": "Estratégico Nacional", "num_deals": 6, "deal_recente": "Adtalem Brasil (2021)"},
+      {"nome": "Inspired Education", "tipo": "PE Internacional", "num_deals": 4, "deal_recente": "Colégio Concept SP (2023)"},
+      {"nome": "BR Educação (Bahema)", "tipo": "PE Nacional", "num_deals": 5, "deal_recente": "Colégio pH (2022)"}
+    ],
+    "alvos_potenciais": [
+      {
+        "empresa": "Eleva Educação",
+        "justificativa": "Plataforma de colégios premium controlada por PE (Inspired/Goldman Sachs) com expansão acelerada. Horizonte de saída próximo abre janela para IPO ou venda estratégica para consolidador global.",
+        "indicadores": ["PE com horizonte de saída", "Colégios premium", "Expansão acelerada"]
+      },
+      {
+        "empresa": "SEB Sistema Educacional",
+        "justificativa": "Sistema de ensino K-12 com franquias, plataformas digitais e colégios próprios. Complexidade de portfólio abre espaço para carve-outs ou aquisição de divisões específicas.",
+        "indicadores": ["Portfólio complexo", "Franquias e digitais", "Candidato a carve-out"]
+      },
+      {
+        "empresa": "Kroton (divisão EAD remanescente)",
+        "justificativa": "Braço de educação à distância da Cogna com escala nacional, possível spin-off para monetizar valor separadamente do ensino presencial premium.",
+        "indicadores": ["Escala nacional EAD", "Candidato a spin-off", "Separação presencial/EAD"]
+      }
+    ],
+    "multiplos_resumo": {
+      "ev_ebitda_med": 7,
+      "ev_receita_med": 1.3,
+      "tendencia": "baixa",
+      "link_multiplos": "/multiplos"
+    },
+    "teses_estrategicas": [
+      "Buy-and-build em colégios K-12 de médio-alto padrão: mercado fragmentado com centenas de alvos independentes",
+      "EAD vs presencial: pêndulo regulatório e de demanda cria oportunidades de reposicionamento de portfólio",
+      "Edtech embedding: plataformas digitais adquiridas por grupos educacionais para diferenciar oferta e reduzir evasão",
+      "Educação executiva e corporativa como segmento premium de maior crescimento e menor regulação",
+      "Internacionalização de grupos brasileiros com expansão para América Latina via aquisições"
+    ],
+    "fatores_risco": [
+      "Mudanças em PROUNI e FIES impactam diretamente a demanda e rentabilidade do ensino superior privado",
+      "Alta alavancagem das grandes holdings educacionais limita capacidade de novas aquisições",
+      "Evasão estudantil crescente em períodos de estresse econômico comprime receita recorrente",
+      "Regulação do MEC para credenciamento de novos cursos e vagas EAD adiciona incerteza",
+      "Reputação de grupos pós-fusão complexa: integração cultural de faculdades regionais é crítica"
+    ],
+    "pipeline_potencial": [
+      {"empresa": "Colégio Período Integral (rede regional Sul)", "contexto": "Rede de colégios em tempo integral no Sul do Brasil, família fundadora sem sucessor claro, PE mandatado", "probabilidade": "Alta"},
+      {"empresa": "Descomplica / plataformas prep", "contexto": "Plataformas de preparação para vestibular e concursos com base de usuários, candidatas a consolidação por grupo K-12", "probabilidade": "Média"},
+      {"empresa": "Unicesumar", "contexto": "Grupo educacional paranaense com forte EAD e campus físicos, crescimento acelerado e possível IPO ou venda", "probabilidade": "Média"}
+    ],
+    "regulatorio": {
+      "regulador_setorial": "MEC — Ministério da Educação e INEP",
+      "consideracoes": "Aquisições de IES (Instituições de Ensino Superior) exigem autorização prévia do MEC. Mudança de controle deve ser comunicada e aprovada para manutenção de credenciamentos e autorizações de cursos. CADE analisa concentração de mercado em capitais e grandes municípios."
+    }
+  }
+]

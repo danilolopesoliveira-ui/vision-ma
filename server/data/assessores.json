@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "btg-pactual",
+    "nome": "BTG Pactual",
+    "tipo": "Banco",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 55,
+    "deals_3a": 142,
+    "volume_assessorado_bi": 57.1,
+    "market_share_pct": 22.0,
+    "ranking_2024": 1,
+    "top_setores": ["Energia", "Infraestrutura", "Financeiro"],
+    "ultimas_transacoes": [
+      {"deal": "Sabesp / Equatorial (Privatização)", "papel": "Assessor do Comprador", "ano": 2024},
+      {"deal": "PRIO / Sinochem Brasil", "papel": "Assessor do Comprador", "ano": 2024},
+      {"deal": "Eldorado / J&F (Resolução Societária)", "papel": "Assessor do Comprador", "ano": 2024},
+      {"deal": "Âmbar / Amazonas Energia", "papel": "Coordenador do Leilão", "ano": 2024}
+    ],
+    "descricao": "Maior banco de investimentos da América Latina e líder do ranking de M&A brasileiro em 2024, com 55 deals e R$57,1B em volume assessorado (22% de market share). Liderança em privatizações e grandes transações de energia.",
+    "website": "https://www.btgpactual.com"
+  },
+  {
+    "id": "itau-bba",
+    "nome": "Itaú BBA",
+    "tipo": "Banco",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 43,
+    "deals_3a": 118,
+    "volume_assessorado_bi": 42.1,
+    "market_share_pct": 16.2,
+    "ranking_2024": 2,
+    "top_setores": ["Saúde", "Energia", "Consumo"],
+    "ultimas_transacoes": [
+      {"deal": "Auren / AES Brasil (Fusão)", "papel": "Assessor do Comprador", "ano": 2024},
+      {"deal": "Eneva / Termoelétricas BTG", "papel": "Assessor do Comprador", "ano": 2024},
+      {"deal": "Dasa / Amil JV Ímpar", "papel": "Assessor do Comprador", "ano": 2024},
+      {"deal": "Serena Energia OPA", "papel": "Assessor Financeiro", "ano": 2024}
+    ],
+    "descricao": "Principal braço de banco de investimentos do Itaú Unibanco, vice-líder do ranking M&A 2024 com 43 deals e R$42,1B em volume (16,2% market share). Especialista em energia renovável, saúde e transações de grande porte.",
+    "website": "https://www.itaubba.com.br"
+  },
+  {
+    "id": "bradesco-bbi",
+    "nome": "Bradesco BBI",
+    "tipo": "Banco",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 18,
+    "deals_3a": 55,
+    "volume_assessorado_bi": 22.4,
+    "top_setores": ["Agronegócio", "Energia", "Consumo"],
+    "ultimas_transacoes": [
+      {"deal": "BRF / Sadia Consolidação", "papel": "Assessor do Conselho", "ano": 2022},
+      {"deal": "Raízen / Shell BR", "papel": "Coordenador", "ano": 2023},
+      {"deal": "Cosan / Comgás", "papel": "Financeiro do Vendedor", "ano": 2023}
+    ],
+    "descricao": "Braço de investimentos do Bradesco com forte presença no mid-market brasileiro e setores regulados",
+    "website": "https://www.bradescobbi.com.br"
+  },
+  {
+    "id": "goldman-sachs-br",
+    "nome": "Goldman Sachs Brasil",
+    "tipo": "Banco",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 14,
+    "deals_3a": 42,
+    "volume_assessorado_bi": 28.9,
+    "top_setores": ["Tecnologia", "Cross-border", "PE/VC"],
+    "ultimas_transacoes": [
+      {"deal": "Nubank IPO", "papel": "Bookrunner", "ano": 2021},
+      {"deal": "Totvs / Linx (disputada)", "papel": "Financeiro do Proponente", "ano": 2021},
+      {"deal": "Embraer / Boeing JV", "papel": "Assessor Estratégico", "ano": 2022}
+    ],
+    "descricao": "Operação brasileira do Goldman Sachs com foco em transações cross-border de grande porte e acesso a capital internacional",
+    "website": "https://www.goldmansachs.com/worldwide/brazil"
+  },
+  {
+    "id": "morgan-stanley-br",
+    "nome": "Morgan Stanley Brasil",
+    "tipo": "Banco",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 12,
+    "deals_3a": 38,
+    "volume_assessorado_bi": 24.5,
+    "top_setores": ["Cross-border", "Energia", "Mineração"],
+    "ultimas_transacoes": [
+      {"deal": "Vale / Metais Básicos Spin-off", "papel": "Assessor Estratégico", "ano": 2022},
+      {"deal": "Petrobras / Campos Basin Divestiture", "papel": "Financeiro do Vendedor", "ano": 2023},
+      {"deal": "Suzano / Fibria Pós-fusão", "papel": "Assessor de Refinanciamento", "ano": 2022}
+    ],
+    "descricao": "Escritório brasileiro do Morgan Stanley especializado em transações cross-border, commodities e grandes privatizações",
+    "website": "https://www.morganstanley.com/about-us/global-offices/brazil"
+  },
+  {
+    "id": "rothschild-co",
+    "nome": "Rothschild & Co",
+    "tipo": "Boutique",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 10,
+    "deals_3a": 31,
+    "volume_assessorado_bi": 15.2,
+    "top_setores": ["Distressed", "Restructuring", "M&A"],
+    "ultimas_transacoes": [
+      {"deal": "Americanas / Reestruturação", "papel": "Assessor Financeiro Independente", "ano": 2023},
+      {"deal": "Oi / Recuperação Judicial", "papel": "Assessor dos Credores", "ano": 2022},
+      {"deal": "Light / Reestruturação de Dívida", "papel": "Assessor do Devedor", "ano": 2023}
+    ],
+    "descricao": "Boutique global independente líder em situações especiais, reestruturação e fairness opinions no Brasil",
+    "website": "https://www.rothschildandco.com"
+  },
+  {
+    "id": "ubs-bb",
+    "nome": "UBS BB",
+    "tipo": "Banco",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 11,
+    "deals_3a": 34,
+    "volume_assessorado_bi": 18.7,
+    "top_setores": ["Tecnologia", "Saúde", "Financeiro"],
+    "ultimas_transacoes": [
+      {"deal": "Stone / Linx", "papel": "Financeiro do Comprador", "ano": 2021},
+      {"deal": "Hapvida / Grupo São Francisco", "papel": "Assessor do Vendedor", "ano": 2022},
+      {"deal": "XP / Corretoras Regionais", "papel": "Assessor do Comprador", "ano": 2023}
+    ],
+    "descricao": "Joint venture entre UBS e Banco do Brasil com excelente cobertura de empresas mid e large cap brasileiras",
+    "website": "https://www.ubsbb.com.br"
+  },
+  {
+    "id": "citi-brasil",
+    "nome": "Citi Brasil",
+    "tipo": "Banco",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 9,
+    "deals_3a": 28,
+    "volume_assessorado_bi": 16.3,
+    "top_setores": ["Cross-border", "Energia", "Telecom"],
+    "ultimas_transacoes": [
+      {"deal": "Claro / NET Pós-fusão Refinanciamento", "papel": "Coordenador de Dívida", "ano": 2022},
+      {"deal": "Petrobras / Refinarias Desinvestimento", "papel": "Financeiro do Vendedor", "ano": 2021},
+      {"deal": "TIM Brasil / Oi Móvel", "papel": "Assessor do Comprador", "ano": 2022}
+    ],
+    "descricao": "Banco de investimentos global com forte rede de relacionamento para transações cross-border e acesso a capital estrangeiro",
+    "website": "https://www.citigroup.com/global/businesses/brazil"
+  },
+  {
+    "id": "vinci-partners-advisory",
+    "nome": "Vinci Partners Advisory",
+    "tipo": "Boutique",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 7,
+    "deals_3a": 22,
+    "volume_assessorado_bi": 9.8,
+    "top_setores": ["Infraestrutura", "PE/VC", "Real Assets"],
+    "ultimas_transacoes": [
+      {"deal": "Pátria / Iridium Gestora", "papel": "Assessor do Comprador", "ano": 2022},
+      {"deal": "Comporte / Grupo JBS Logística", "papel": "Assessor Financeiro", "ano": 2023},
+      {"deal": "Entrevias / Concessão Rodovias SP", "papel": "Assessor do Concessionário", "ano": 2022}
+    ],
+    "descricao": "Boutique independente focada em infraestrutura, ativos reais e assessoria estratégica para fundos de PE/VC no Brasil",
+    "website": "https://www.vincipartners.com"
+  },
+  {
+    "id": "brasil-plural",
+    "nome": "Brasil Plural",
+    "tipo": "Boutique",
+    "tipo_categoria": "financeiro",
+    "deals_12m": 6,
+    "deals_3a": 18,
+    "volume_assessorado_bi": 5.4,
+    "top_setores": ["Mid-market", "Saúde", "Educação"],
+    "ultimas_transacoes": [
+      {"deal": "Ânima Educação / Laureate Brasil", "papel": "Assessor do Comprador", "ano": 2021},
+      {"deal": "OdontoPrev / Expansão Regional", "papel": "Assessor Financeiro", "ano": 2022},
+      {"deal": "Oncoclínicas / Captação Growth", "papel": "Coordenador", "ano": 2023}
+    ],
+    "descricao": "Boutique independente especializada no segmento mid-market brasileiro com foco em saúde, educação e serviços",
+    "website": "https://www.brasilplural.com.br"
+  },
+  {
+    "id": "machado-meyer",
+    "nome": "Machado Meyer",
+    "tipo": "Escritório",
+    "tipo_categoria": "juridico",
+    "deals_12m": 68,
+    "deals_3a": 192,
+    "volume_assessorado_bi": 71.4,
+    "ranking_2024": 2,
+    "top_setores": ["M&A Geral", "Infraestrutura", "Regulatório"],
+    "ultimas_transacoes": [
+      {"deal": "Arezzo / Soma (Azzas 2154)", "papel": "Jurídico do Comprador", "ano": 2024},
+      {"deal": "CMA CGM / Santos Brasil", "papel": "Jurídico do Vendedor", "ano": 2024},
+      {"deal": "Dasa / Amil JV Ímpar", "papel": "Jurídico do Vendedor", "ano": 2024}
+    ],
+    "descricao": "Um dos maiores escritórios de advocacia empresarial do Brasil, vice-líder do ranking jurídico de M&A 2024 por número de deals (68 transações, R$71,4B em volume). Forte presença em operações cross-border e infraestrutura.",
+    "website": "https://www.machadomeyer.com.br"
+  },
+  {
+    "id": "pinheiro-neto",
+    "nome": "Pinheiro Neto Advogados",
+    "tipo": "Escritório",
+    "tipo_categoria": "juridico",
+    "deals_12m": 28,
+    "deals_3a": 85,
+    "volume_assessorado_bi": 48.5,
+    "top_setores": ["M&A Geral", "Bancário", "Regulatório"],
+    "ultimas_transacoes": [
+      {"deal": "Nubank IPO NYSE", "papel": "Jurídico do Emissor", "ano": 2021},
+      {"deal": "BTG Pactual / Banco Pan", "papel": "Assessor Jurídico", "ano": 2023},
+      {"deal": "Patria / Iridium", "papel": "Jurídico do Comprador", "ano": 2022}
+    ],
+    "descricao": "Escritório full-service fundado em 1942, reconhecido internacionalmente por sua excelência em M&A, bancário e mercado de capitais",
+    "website": "https://www.pinheironeto.com.br"
+  },
+  {
+    "id": "lefosse-advogados",
+    "nome": "Lefosse Advogados",
+    "tipo": "Escritório",
+    "tipo_categoria": "juridico",
+    "deals_12m": 54,
+    "deals_3a": 148,
+    "volume_assessorado_bi": 52.5,
+    "ranking_2024_volume": 1,
+    "top_setores": ["PE/VC", "M&A Cross-border", "Mercado de Capitais"],
+    "ultimas_transacoes": [
+      {"deal": "Arezzo / Soma (Azzas 2154)", "papel": "Jurídico do Vendedor", "ano": 2024},
+      {"deal": "Eneva / Termoelétricas BTG", "papel": "Jurídico do Comprador", "ano": 2024},
+      {"deal": "Hapvida / HB Saúde", "papel": "Jurídico do Comprador", "ano": 2024}
+    ],
+    "descricao": "Líder do ranking jurídico de M&A 2024 por VOLUME (R$52,5B em 54 deals), Lefosse se destaca em transações de alto valor unitário com perfil cross-border e PE/VC. Forte atuação em private equity internacional e operações de capital de risco.",
+    "website": "https://www.lefosse.com"
+  },
+  {
+    "id": "tozzinifreire",
+    "nome": "TozziniFreire Advogados",
+    "tipo": "Escritório",
+    "tipo_categoria": "juridico",
+    "deals_12m": 20,
+    "deals_3a": 60,
+    "volume_assessorado_bi": 30.2,
+    "top_setores": ["Agronegócio", "M&A Geral", "Tributário"],
+    "ultimas_transacoes": [
+      {"deal": "Marfrig / BRF", "papel": "Jurídico do Comprador", "ano": 2022},
+      {"deal": "SLC Agrícola / Expansão", "papel": "Assessor Jurídico", "ano": 2023},
+      {"deal": "JBS / National Beef", "papel": "Jurídico do Comprador", "ano": 2022}
+    ],
+    "descricao": "Escritório full-service com forte tradição em M&A empresarial, agronegócio e questões tributárias em transações complexas",
+    "website": "https://www.tozzinifreire.com.br"
+  },
+  {
+    "id": "mattos-filho",
+    "nome": "Mattos Filho",
+    "tipo": "Escritório",
+    "tipo_categoria": "juridico",
+    "deals_12m": 80,
+    "deals_3a": 218,
+    "volume_assessorado_bi": 48.8,
+    "ranking_2024_deals": 1,
+    "top_setores": ["Tecnologia", "Energia", "M&A Geral"],
+    "ultimas_transacoes": [
+      {"deal": "Sabesp / Equatorial (Privatização)", "papel": "Jurídico do Comprador", "ano": 2024},
+      {"deal": "PRIO / Sinochem Brasil", "papel": "Jurídico do Comprador", "ano": 2024},
+      {"deal": "Auren / AES Brasil (Fusão)", "papel": "Jurídico do Comprador", "ano": 2024},
+      {"deal": "V.tal / Oi ClientCo", "papel": "Jurídico do Comprador", "ano": 2024}
+    ],
+    "descricao": "Líder absoluto do ranking jurídico de M&A 2024 por NÚMERO DE DEALS (80 transações), Mattos Filho consolida posição de maior escritório de M&A do Brasil. Destaque especial em privatizações, energia e tecnologia com presença em todas as grandes transações.",
+    "website": "https://www.mattosfilho.com.br"
+  },
+  {
+    "id": "stocche-forbes",
+    "nome": "Stocche Forbes",
+    "tipo": "Boutique Jurídica",
+    "tipo_categoria": "juridico",
+    "deals_12m": 15,
+    "deals_3a": 45,
+    "volume_assessorado_bi": 22.5,
+    "top_setores": ["PE/VC", "Infraestrutura", "M&A Geral"],
+    "ultimas_transacoes": [
+      {"deal": "Advent / Walmart Brasil", "papel": "Jurídico do Comprador", "ano": 2021},
+      {"deal": "Vinci Partners / Portfolio", "papel": "Assessor Jurídico", "ano": 2022},
+      {"deal": "Carlyle / Companhia de Concessões Rodoviárias", "papel": "Jurídico do Investidor", "ano": 2023}
+    ],
+    "descricao": "Boutique jurídica especializada em transações de PE/VC, M&A complexo e infraestrutura, reconhecida por excelência técnica",
+    "website": "https://www.stocheforbes.com.br"
+  },
+  {
+    "id": "souza-cescon",
+    "nome": "Souza Cescon Barrieu & Flesch",
+    "tipo": "Escritório",
+    "tipo_categoria": "juridico",
+    "deals_12m": 18,
+    "deals_3a": 54,
+    "volume_assessorado_bi": 28.8,
+    "top_setores": ["M&A Geral", "Bancário", "Mercado de Capitais"],
+    "ultimas_transacoes": [
+      {"deal": "Santander / Getnet", "papel": "Jurídico da Operação", "ano": 2021},
+      {"deal": "Bradesco / BAC Florida Bank", "papel": "Assessor Jurídico", "ano": 2022},
+      {"deal": "Banco do Brasil / Cielo", "papel": "Jurídico do Investidor", "ano": 2023}
+    ],
+    "descricao": "Escritório de advocacia empresarial com sólida prática em M&A bancário, mercado de capitais e transações financeiras estruturadas",
+    "website": "https://www.souzacescon.com.br"
+  },
+  {
+    "id": "bma-advogados",
+    "nome": "BMA Advogados",
+    "tipo": "Boutique Jurídica",
+    "tipo_categoria": "juridico",
+    "deals_12m": 12,
+    "deals_3a": 36,
+    "volume_assessorado_bi": 16.5,
+    "top_setores": ["Energia", "Regulatório", "M&A Geral"],
+    "ultimas_transacoes": [
+      {"deal": "Eneva / Celse", "papel": "Jurídico do Comprador", "ano": 2022},
+      {"deal": "CPFL / Ativos de Transmissão", "papel": "Assessor Jurídico", "ano": 2023},
+      {"deal": "Neoenergia / Expansão Eólica", "papel": "Jurídico do Projeto", "ano": 2022}
+    ],
+    "descricao": "Boutique jurídica com expertise reconhecida em regulação de energia, concessões e M&A no setor de infraestrutura e utilities",
+    "website": "https://www.bmalaw.com.br"
+  },
+  {
+    "id": "campos-mello",
+    "nome": "Campos Mello Advogados",
+    "tipo": "Escritório",
+    "tipo_categoria": "juridico",
+    "deals_12m": 14,
+    "deals_3a": 42,
+    "volume_assessorado_bi": 20.2,
+    "top_setores": ["Cross-border", "M&A Geral", "Contratos"],
+    "ultimas_transacoes": [
+      {"deal": "Grupo Boticário / Expansão Internacional", "papel": "Jurídico do Comprador", "ano": 2022},
+      {"deal": "Embraer / Parceria Regional Jets", "papel": "Assessor Jurídico", "ano": 2022},
+      {"deal": "Localiza / Unidas", "papel": "Jurídico da Fusão", "ano": 2021}
+    ],
+    "descricao": "Escritório filiado à DLA Piper com forte capacidade de assessoria em transações cross-border e M&A de médio e grande porte",
+    "website": "https://www.camposmello.adv.br"
+  },
+  {
+    "id": "demarest",
+    "nome": "Demarest Advogados",
+    "tipo": "Escritório",
+    "tipo_categoria": "juridico",
+    "deals_12m": 16,
+    "deals_3a": 48,
+    "volume_assessorado_bi": 24.5,
+    "top_setores": ["M&A Geral", "Imobiliário", "Contencioso"],
+    "ultimas_transacoes": [
+      {"deal": "Cyrela / Plano&Plano", "papel": "Jurídico do Comprador", "ano": 2022},
+      {"deal": "GIC / Portfólio Imobiliário BR", "papel": "Assessor Jurídico", "ano": 2023},
+      {"deal": "Brookfield / Operações Logísticas", "papel": "Jurídico do Investidor", "ano": 2022}
+    ],
+    "descricao": "Escritório full-service com forte tradição em M&A, direito imobiliário e resolução de disputas empresariais complexas",
+    "website": "https://www.demarest.com.br"
+  },
+  {
+    "id": "advent-international",
+    "nome": "Advent International",
+    "tipo": "PE Buyout",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE Buyout",
+    "aum": "US$ 25B",
+    "deals_12m": 4,
+    "deals_3a": 12,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Financeiro", "Saúde", "Tecnologia", "Varejo"],
+    "estagio": ["Buyout", "Late Stage"],
+    "portfolio_ativo": [
+      {"empresa": "Atento", "setor": "Serviços", "ano_entrada": 2012},
+      {"empresa": "Kroton (parcial)", "setor": "Educação", "ano_entrada": 2018},
+      {"empresa": "BR Partners", "setor": "Financeiro", "ano_entrada": 2019},
+      {"empresa": "GetNinjas", "setor": "Tecnologia", "ano_entrada": 2021},
+      {"empresa": "Duosat", "setor": "Telecom/Tech", "ano_entrada": 2020}
+    ],
+    "exits_recentes": [
+      {"empresa": "Walmart Brasil (Grupo Big)", "tipo_exit": "Venda Estratégica", "ano": 2021, "multiplo": 2.8},
+      {"empresa": "Drogaria São Paulo", "tipo_exit": "Venda Estratégica", "ano": 2020, "multiplo": 3.2},
+      {"empresa": "LAN Airlines Brasil", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 1.9}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-06", "empresa": "BR Partners", "valor": "R$ 380M", "descricao": "Aquisição de participação adicional no banco de investimentos"},
+      {"tipo": "followon", "data": "2023-09", "empresa": "Atento", "valor": "US$ 45M", "descricao": "Follow-on para expansão de operações digitais no Brasil"},
+      {"tipo": "saida", "data": "2024-01", "empresa": "GetNinjas", "valor": "R$ 125M", "descricao": "Venda de participação para fundo secondary"}
+    ],
+    "co_investidores_frequentes": ["GIC", "CPPIB", "Teacher's Private Capital"],
+    "ultimas_transacoes": [
+      {"deal": "Walmart Brasil / Grupo Big", "papel": "Comprador", "ano": 2018},
+      {"deal": "BR Partners", "papel": "Investidor", "ano": 2019},
+      {"deal": "Atento / Transformação Digital", "papel": "Investidor Controlador", "ano": 2023}
+    ],
+    "descricao": "Um dos maiores fundos de PE globais com mais de 30 anos de história no Brasil; foco em setores de crescimento secular",
+    "website": "https://www.adventinternational.com"
+  },
+  {
+    "id": "carlyle-group-br",
+    "nome": "Carlyle Group Brasil",
+    "tipo": "PE Buyout",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE Buyout",
+    "aum": "US$ 7B",
+    "deals_12m": 3,
+    "deals_3a": 9,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Energia", "Infraestrutura", "Financeiro"],
+    "estagio": ["Buyout", "Growth"],
+    "portfolio_ativo": [
+      {"empresa": "Tok&Stok", "setor": "Varejo", "ano_entrada": 2018},
+      {"empresa": "CVC Corp (parcial)", "setor": "Turismo", "ano_entrada": 2019},
+      {"empresa": "Vero Internet", "setor": "Telecom", "ano_entrada": 2021},
+      {"empresa": "Madero", "setor": "Food Service", "ano_entrada": 2020},
+      {"empresa": "Rede Energia (ativos)", "setor": "Energia", "ano_entrada": 2022}
+    ],
+    "exits_recentes": [
+      {"empresa": "Qualicorp", "tipo_exit": "Venda no Mercado", "ano": 2021, "multiplo": 2.1},
+      {"empresa": "Houghton Mifflin BR", "tipo_exit": "Venda Estratégica", "ano": 2020, "multiplo": 1.8},
+      {"empresa": "AmBev Distribuição Parcial", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 3.5}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2022-08", "empresa": "Vero Internet", "valor": "R$ 850M", "descricao": "Aquisição de provedor de internet de fibra no interior do Brasil"},
+      {"tipo": "followon", "data": "2023-03", "empresa": "Madero", "valor": "R$ 120M", "descricao": "Capital de giro para reestruturação pós-pandemia"},
+      {"tipo": "saida", "data": "2023-11", "empresa": "Tok&Stok", "valor": "R$ 1,1B", "descricao": "Venda para fundo imobiliário e sócios estratégicos"}
+    ],
+    "co_investidores_frequentes": ["GIC", "Gávea Investimentos", "ADIA"],
+    "ultimas_transacoes": [
+      {"deal": "Vero Internet", "papel": "Investidor Controlador", "ano": 2021},
+      {"deal": "Madero / Expansão", "papel": "Investidor", "ano": 2020},
+      {"deal": "CVC Corp", "papel": "Investidor Minoritário", "ano": 2019}
+    ],
+    "descricao": "Escritório LatAm do Carlyle Group com foco em buyouts de médio e grande porte nos setores de energia, infraestrutura e serviços",
+    "website": "https://www.carlyle.com"
+  },
+  {
+    "id": "warburg-pincus-br",
+    "nome": "Warburg Pincus Brasil",
+    "tipo": "PE Buyout/Growth",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE Buyout",
+    "aum": "US$ 12B",
+    "deals_12m": 3,
+    "deals_3a": 10,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Financeiro", "Saúde", "Tecnologia"],
+    "estagio": ["Growth", "Buyout"],
+    "portfolio_ativo": [
+      {"empresa": "Inter (ex-Intermedium)", "setor": "Financeiro/Fintech", "ano_entrada": 2016},
+      {"empresa": "Oncoclínicas", "setor": "Saúde", "ano_entrada": 2020},
+      {"empresa": "Boa Consulta", "setor": "Saúde Digital", "ano_entrada": 2022},
+      {"empresa": "Blu Digital", "setor": "Fintech", "ano_entrada": 2021},
+      {"empresa": "Leve (crédito pessoal)", "setor": "Financeiro", "ano_entrada": 2023}
+    ],
+    "exits_recentes": [
+      {"empresa": "Inter IPO", "tipo_exit": "IPO B3", "ano": 2018, "multiplo": 4.5},
+      {"empresa": "Oncoclínicas IPO", "tipo_exit": "IPO B3", "ano": 2021, "multiplo": 3.8},
+      {"empresa": "Dasa / Expansão Diagnósticos", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 2.9}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-04", "empresa": "Leve", "valor": "US$ 80M", "descricao": "Investimento em plataforma de crédito consignado digital"},
+      {"tipo": "followon", "data": "2023-07", "empresa": "Oncoclínicas", "valor": "R$ 200M", "descricao": "Follow-on para expansão de clínicas oncológicas no Brasil"},
+      {"tipo": "saida", "data": "2024-02", "empresa": "Blu Digital", "valor": "R$ 450M", "descricao": "Venda para grupo financeiro estratégico"}
+    ],
+    "co_investidores_frequentes": ["General Atlantic", "SoftBank", "Temasek"],
+    "ultimas_transacoes": [
+      {"deal": "Inter / Rodadas Growth", "papel": "Investidor Líder", "ano": 2017},
+      {"deal": "Oncoclínicas / Expansão", "papel": "Investidor Líder", "ano": 2020},
+      {"deal": "Leve Crédito", "papel": "Investidor Líder", "ano": 2023}
+    ],
+    "descricao": "Fundo global de growth equity e PE com forte track record em fintechs e healthtechs no Brasil",
+    "website": "https://www.warburgpincus.com"
+  },
+  {
+    "id": "patria-investments",
+    "nome": "Pátria Investimentos",
+    "tipo": "PE/Infra",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE/Infra",
+    "aum": "US$ 40B",
+    "deals_12m": 8,
+    "deals_3a": 24,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Infraestrutura", "Agronegócio", "Real Assets"],
+    "estagio": ["Growth", "Buyout", "Infra"],
+    "portfolio_ativo": [
+      {"empresa": "Entrevias", "setor": "Infraestrutura Rodoviária", "ano_entrada": 2021},
+      {"empresa": "Boa Safra Sementes", "setor": "Agronegócio", "ano_entrada": 2020},
+      {"empresa": "BrDU Data Centers", "setor": "Tecnologia/Infra", "ano_entrada": 2022},
+      {"empresa": "Terminal Pesqueiro de Santos", "setor": "Logística", "ano_entrada": 2019},
+      {"empresa": "REM Consultoria Florestal", "setor": "Agronegócio", "ano_entrada": 2021},
+      {"empresa": "UsinaGreen Bioenergia", "setor": "Energia", "ano_entrada": 2023}
+    ],
+    "exits_recentes": [
+      {"empresa": "Hidrovias do Brasil IPO", "tipo_exit": "IPO B3", "ano": 2021, "multiplo": 3.2},
+      {"empresa": "Gera Maranhão Energia", "tipo_exit": "Venda para Fundo Infra", "ano": 2022, "multiplo": 2.5},
+      {"empresa": "Comporte / Ônibus Urbanos", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 2.8}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-05", "empresa": "UsinaGreen Bioenergia", "valor": "R$ 620M", "descricao": "Aquisição de usina sucroalcooleira com geração de biogás"},
+      {"tipo": "entrada", "data": "2023-09", "empresa": "BrDU Data Centers", "valor": "R$ 1,2B", "descricao": "Expansão de data centers para hiperescaladores no Brasil"},
+      {"tipo": "saida", "data": "2024-03", "empresa": "Comporte", "valor": "R$ 2,1B", "descricao": "Venda do grupo de transporte urbano para consórcio estratégico"}
+    ],
+    "co_investidores_frequentes": ["Blackstone", "CPPIB", "APG Asset Management"],
+    "ultimas_transacoes": [
+      {"deal": "Hidrovias do Brasil IPO", "papel": "Acionista Vendedor", "ano": 2021},
+      {"deal": "Entrevias Concessão Rodovias", "papel": "Investidor Controlador", "ano": 2021},
+      {"deal": "BrDU Data Centers", "papel": "Investidor Controlador", "ano": 2022}
+    ],
+    "descricao": "Maior gestora independente de ativos alternativos da América Latina com forte presença em infraestrutura, agronegócio e private equity",
+    "website": "https://www.patria.com"
+  },
+  {
+    "id": "vinci-partners-pe",
+    "nome": "Vinci Partners PE",
+    "tipo": "PE Mid-market",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE Mid-market",
+    "aum": "R$ 18B",
+    "deals_12m": 5,
+    "deals_3a": 15,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Saúde", "Educação", "Serviços"],
+    "estagio": ["Growth", "Buyout"],
+    "portfolio_ativo": [
+      {"empresa": "IMC (Redes de Restaurantes)", "setor": "Food Service", "ano_entrada": 2017},
+      {"empresa": "SER Educacional (parcial)", "setor": "Educação", "ano_entrada": 2019},
+      {"empresa": "Dasa (parcial)", "setor": "Saúde", "ano_entrada": 2021},
+      {"empresa": "Grupo Oncoclínicas (parcial)", "setor": "Saúde", "ano_entrada": 2022},
+      {"empresa": "Laboratórios Sabin (parcial)", "setor": "Saúde", "ano_entrada": 2020}
+    ],
+    "exits_recentes": [
+      {"empresa": "IMC Restaurantes IPO", "tipo_exit": "IPO B3", "ano": 2019, "multiplo": 2.4},
+      {"empresa": "Ânima Educação (stake)", "tipo_exit": "Venda no Mercado", "ano": 2021, "multiplo": 3.1},
+      {"empresa": "Hospital São Luiz", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 2.7}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2022-11", "empresa": "Grupo Oncoclínicas", "valor": "R$ 350M", "descricao": "Investimento em líder de oncologia privada no Brasil"},
+      {"tipo": "followon", "data": "2023-06", "empresa": "Laboratórios Sabin", "valor": "R$ 180M", "descricao": "Follow-on para expansão de rede de diagnósticos"},
+      {"tipo": "saida", "data": "2023-12", "empresa": "IMC", "valor": "R$ 280M", "descricao": "Redução de participação via bloco em bolsa"}
+    ],
+    "co_investidores_frequentes": ["Warburg Pincus", "General Atlantic", "Crescera"],
+    "ultimas_transacoes": [
+      {"deal": "Sabin Laboratórios", "papel": "Investidor", "ano": 2020},
+      {"deal": "SER Educacional", "papel": "Investidor", "ano": 2019},
+      {"deal": "Oncoclínicas", "papel": "Investidor", "ano": 2022}
+    ],
+    "descricao": "Gestora de PE focada no mid-market brasileiro com histórico em saúde, educação e serviços de alto crescimento",
+    "website": "https://www.vincipartners.com"
+  },
+  {
+    "id": "hemisferio-sul",
+    "nome": "Hemisfério Sul Investimentos",
+    "tipo": "PE Mid-market",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE Mid-market",
+    "aum": "R$ 3B",
+    "deals_12m": 3,
+    "deals_3a": 9,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Agronegócio", "Alimentos"],
+    "estagio": ["Growth", "Buyout"],
+    "portfolio_ativo": [
+      {"empresa": "Forno de Minas", "setor": "Alimentos", "ano_entrada": 2018},
+      {"empresa": "Santa Fé Agroindustrial", "setor": "Agronegócio", "ano_entrada": 2020},
+      {"empresa": "CRM Café", "setor": "Alimentos/Bebidas", "ano_entrada": 2021},
+      {"empresa": "Agrinvest Commodities", "setor": "Agronegócio", "ano_entrada": 2022},
+      {"empresa": "Destilaria Olímpia", "setor": "Bebidas/Agro", "ano_entrada": 2019}
+    ],
+    "exits_recentes": [
+      {"empresa": "Dipão Padarias", "tipo_exit": "Venda Estratégica", "ano": 2021, "multiplo": 2.2},
+      {"empresa": "Sítio do Picapau Granja", "tipo_exit": "Venda para Family Office", "ano": 2022, "multiplo": 1.9},
+      {"empresa": "AgroFértil", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 2.5}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2022-07", "empresa": "Agrinvest Commodities", "valor": "R$ 95M", "descricao": "Investimento em trading de commodities agrícolas"},
+      {"tipo": "followon", "data": "2023-02", "empresa": "CRM Café", "valor": "R$ 45M", "descricao": "Expansão de torrefação e canais de distribuição"},
+      {"tipo": "saida", "data": "2023-10", "empresa": "AgroFértil", "valor": "R$ 180M", "descricao": "Venda para multinacional de insumos agrícolas"}
+    ],
+    "co_investidores_frequentes": ["TozziniFreire (jurídico)", "Bradesco BBI", "BNDES Participações"],
+    "ultimas_transacoes": [
+      {"deal": "Forno de Minas", "papel": "Investidor Líder", "ano": 2018},
+      {"deal": "CRM Café", "papel": "Investidor", "ano": 2021},
+      {"deal": "Agrinvest", "papel": "Investidor Líder", "ano": 2022}
+    ],
+    "descricao": "Fundo de PE focado exclusivamente em agronegócio e alimentos no Brasil, com equipe técnica especializada no setor",
+    "website": "https://www.hemisferiosul.com.br"
+  },
+  {
+    "id": "mogno-capital",
+    "nome": "Mogno Capital",
+    "tipo": "PE Mid-market",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE Mid-market",
+    "aum": "R$ 2.5B",
+    "deals_12m": 3,
+    "deals_3a": 9,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Saúde", "Educação", "Serviços"],
+    "estagio": ["Growth", "Buyout"],
+    "portfolio_ativo": [
+      {"empresa": "Instituto Prevent Senior", "setor": "Saúde", "ano_entrada": 2019},
+      {"empresa": "Grupo Belavista (clínicas)", "setor": "Saúde", "ano_entrada": 2021},
+      {"empresa": "CEDIN Educação", "setor": "Educação", "ano_entrada": 2020},
+      {"empresa": "Clínica AMO Oncologia", "setor": "Saúde", "ano_entrada": 2022},
+      {"empresa": "Centro Médico Integrado", "setor": "Saúde", "ano_entrada": 2023}
+    ],
+    "exits_recentes": [
+      {"empresa": "Rede de Clínicas Orais", "tipo_exit": "Venda Estratégica", "ano": 2021, "multiplo": 2.8},
+      {"empresa": "Instituto Visão", "tipo_exit": "Venda para Hospital", "ano": 2022, "multiplo": 2.3},
+      {"empresa": "EduVida Plataforma", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 3.1}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-01", "empresa": "Centro Médico Integrado", "valor": "R$ 75M", "descricao": "Aquisição de rede de centros de especialidades médicas"},
+      {"tipo": "followon", "data": "2023-05", "empresa": "Grupo Belavista", "valor": "R$ 55M", "descricao": "Expansão para novas cidades do interior"},
+      {"tipo": "saida", "data": "2023-09", "empresa": "EduVida", "valor": "R$ 120M", "descricao": "Venda para grupo educacional de grande porte"}
+    ],
+    "co_investidores_frequentes": ["Vinci Partners PE", "Crescera", "Spectra Investments"],
+    "ultimas_transacoes": [
+      {"deal": "Instituto Prevent Senior", "papel": "Investidor Líder", "ano": 2019},
+      {"deal": "Clínica AMO Oncologia", "papel": "Investidor Líder", "ano": 2022},
+      {"deal": "CEDIN Educação", "papel": "Investidor", "ano": 2020}
+    ],
+    "descricao": "Gestora de PE mid-market focada em serviços de saúde e educação no Brasil, com abordagem de buy-and-build setorial",
+    "website": "https://www.mognocapital.com.br"
+  },
+  {
+    "id": "gavea-investimentos",
+    "nome": "Gávea Investimentos",
+    "tipo": "Multi-strategy",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE Buyout",
+    "aum": "US$ 6B",
+    "deals_12m": 4,
+    "deals_3a": 13,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Multi-setor", "Financeiro"],
+    "estagio": ["Growth", "Buyout", "Late Stage"],
+    "portfolio_ativo": [
+      {"empresa": "Biotrop (agronegócio)", "setor": "Agronegócio", "ano_entrada": 2018},
+      {"empresa": "Helbor Empreendimentos", "setor": "Imobiliário", "ano_entrada": 2020},
+      {"empresa": "Grupo Pereira (supermercados)", "setor": "Varejo", "ano_entrada": 2021},
+      {"empresa": "Banco Arbi", "setor": "Financeiro", "ano_entrada": 2019},
+      {"empresa": "Nuvemshop (parcial)", "setor": "Tecnologia", "ano_entrada": 2022}
+    ],
+    "exits_recentes": [
+      {"empresa": "BM&FBovespa (stake)", "tipo_exit": "Venda no Mercado", "ano": 2021, "multiplo": 5.2},
+      {"empresa": "Oi (crédito)", "tipo_exit": "Conversão Dívida-Equity", "ano": 2022, "multiplo": 1.4},
+      {"empresa": "PDG Realty (ativos)", "tipo_exit": "Distressed Sale", "ano": 2023, "multiplo": 1.2}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2022-10", "empresa": "Nuvemshop", "valor": "US$ 30M", "descricao": "Co-investimento em rodada de growth da plataforma de e-commerce"},
+      {"tipo": "followon", "data": "2023-04", "empresa": "Grupo Pereira", "valor": "R$ 250M", "descricao": "Expansão de supermercados para o Nordeste"},
+      {"tipo": "saida", "data": "2023-11", "empresa": "Banco Arbi", "valor": "R$ 480M", "descricao": "Venda da participação no banco de middle market"}
+    ],
+    "co_investidores_frequentes": ["JPMorgan", "Carlyle", "Warburg Pincus"],
+    "ultimas_transacoes": [
+      {"deal": "Biotrop Agro", "papel": "Investidor Líder", "ano": 2018},
+      {"deal": "Grupo Pereira", "papel": "Investidor", "ano": 2021},
+      {"deal": "Nuvemshop", "papel": "Co-investidor", "ano": 2022}
+    ],
+    "descricao": "Gestora multi-estratégia fundada por Arminio Fraga, com atuação em PE, crédito e renda variável no Brasil",
+    "website": "https://www.gavea.com"
+  },
+  {
+    "id": "brasil-capital",
+    "nome": "Brasil Capital",
+    "tipo": "PE/Listed",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE Mid-market",
+    "aum": "R$ 8B",
+    "deals_12m": 5,
+    "deals_3a": 16,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Multi-setor"],
+    "estagio": ["Growth", "Late Stage"],
+    "portfolio_ativo": [
+      {"empresa": "PRIO (PetroRio)", "setor": "Energia", "ano_entrada": 2020},
+      {"empresa": "Vivara Joias", "setor": "Varejo", "ano_entrada": 2021},
+      {"empresa": "Equatorial Energia (parcial)", "setor": "Energia", "ano_entrada": 2019},
+      {"empresa": "Randon Implementos", "setor": "Indústria", "ano_entrada": 2022},
+      {"empresa": "Sequoia Logística", "setor": "Logística", "ano_entrada": 2023}
+    ],
+    "exits_recentes": [
+      {"empresa": "Movida Locações (stake)", "tipo_exit": "Venda no Mercado", "ano": 2022, "multiplo": 3.4},
+      {"empresa": "Grupo SBF/Centauro", "tipo_exit": "Venda no Mercado", "ano": 2021, "multiplo": 4.1},
+      {"empresa": "Boa Safra Sementes", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 2.9}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-07", "empresa": "Sequoia Logística", "valor": "R$ 180M", "descricao": "Participação em empresa de logística de última milha"},
+      {"tipo": "followon", "data": "2023-10", "empresa": "PRIO", "valor": "R$ 320M", "descricao": "Participação adicional após discovery de novos poços"},
+      {"tipo": "saida", "data": "2024-01", "empresa": "Boa Safra", "valor": "R$ 210M", "descricao": "Desinvestimento após ciclo de valorização do ativo"}
+    ],
+    "co_investidores_frequentes": ["Dynamo", "Opportunity", "Tarpon"],
+    "ultimas_transacoes": [
+      {"deal": "PetroRio / PRIO3", "papel": "Investidor Relevante", "ano": 2020},
+      {"deal": "Vivara IPO", "papel": "Anchor Investor", "ano": 2019},
+      {"deal": "Sequoia Logística", "papel": "Investidor", "ano": 2023}
+    ],
+    "descricao": "Gestora independente com foco em empresas listadas e pré-IPO no Brasil, abordagem ativista com criação de valor operacional",
+    "website": "https://www.brasilcapital.com.br"
+  },
+  {
+    "id": "kinea-private-equity",
+    "nome": "Kinea Private Equity",
+    "tipo": "PE/Real Assets",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "PE/Infra",
+    "aum": "R$ 22B",
+    "deals_12m": 6,
+    "deals_3a": 18,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Real Assets", "Infraestrutura"],
+    "estagio": ["Growth", "Infra"],
+    "portfolio_ativo": [
+      {"empresa": "TRX Real Estate", "setor": "Imobiliário", "ano_entrada": 2019},
+      {"empresa": "Comporte Concessões", "setor": "Infraestrutura", "ano_entrada": 2020},
+      {"empresa": "Omega Energia (parcial)", "setor": "Energia Renovável", "ano_entrada": 2021},
+      {"empresa": "GDC Properties", "setor": "Imobiliário/Logística", "ano_entrada": 2022},
+      {"empresa": "Brasil Agro CRA", "setor": "Agronegócio", "ano_entrada": 2023}
+    ],
+    "exits_recentes": [
+      {"empresa": "Fundo Imobiliário Kinea KNCR", "tipo_exit": "IPO FII", "ano": 2021, "multiplo": 1.8},
+      {"empresa": "Portfólio Lajes Corporativas", "tipo_exit": "Venda para REIT Global", "ano": 2022, "multiplo": 2.2},
+      {"empresa": "Transmissora Aliança (stake)", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 2.6}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-06", "empresa": "Brasil Agro CRA", "valor": "R$ 500M", "descricao": "CRA de infraestrutura para silos e armazenamento"},
+      {"tipo": "entrada", "data": "2023-09", "empresa": "GDC Properties", "valor": "R$ 380M", "descricao": "Portfólio de galpões logísticos AAA no interior de SP"},
+      {"tipo": "saida", "data": "2024-02", "empresa": "Transmissora Aliança", "valor": "R$ 1,4B", "descricao": "Desinvestimento de ativos de transmissão para fundo global"}
+    ],
+    "co_investidores_frequentes": ["Itaú Unibanco", "Pátria Investimentos", "CPPIB"],
+    "ultimas_transacoes": [
+      {"deal": "TRX Real Estate / Galpões", "papel": "Investidor Líder", "ano": 2019},
+      {"deal": "Omega Energia", "papel": "Co-investidor", "ano": 2021},
+      {"deal": "GDC Properties", "papel": "Investidor Líder", "ano": 2022}
+    ],
+    "descricao": "Braço de ativos alternativos do Itaú com foco em real assets, infraestrutura e crédito privado de alta qualidade",
+    "website": "https://www.kinea.com.br"
+  },
+  {
+    "id": "softbank-latin-america",
+    "nome": "SoftBank Latin America Fund",
+    "tipo": "VC/Growth",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "Growth",
+    "aum": "US$ 8B",
+    "deals_12m": 8,
+    "deals_3a": 35,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Tecnologia", "Fintech", "Consumer"],
+    "estagio": ["Series B", "Series C", "Growth", "Late Stage"],
+    "portfolio_ativo": [
+      {"empresa": "QuintoAndar", "setor": "PropTech", "ano_entrada": 2019},
+      {"empresa": "Nuvemshop", "setor": "E-commerce/SaaS", "ano_entrada": 2021},
+      {"empresa": "Creditas", "setor": "Fintech", "ano_entrada": 2019},
+      {"empresa": "MadeiraMadeira", "setor": "E-commerce", "ano_entrada": 2021},
+      {"empresa": "Gympass", "setor": "Benefícios Corporativos", "ano_entrada": 2020},
+      {"empresa": "Vtex", "setor": "E-commerce SaaS", "ano_entrada": 2019}
+    ],
+    "exits_recentes": [
+      {"empresa": "Vtex IPO NYSE", "tipo_exit": "IPO", "ano": 2021, "multiplo": 8.5},
+      {"empresa": "Gympass / Wellhub", "tipo_exit": "Secondary Sale", "ano": 2023, "multiplo": 5.2},
+      {"empresa": "99 (DiDi)", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 12.0}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-08", "empresa": "Soluciones Financieras LatAm", "valor": "US$ 120M", "descricao": "Investimento em fintech B2B de meios de pagamento"},
+      {"tipo": "followon", "data": "2023-11", "empresa": "QuintoAndar", "valor": "US$ 80M", "descricao": "Follow-on bridge para expansão México e Colômbia"},
+      {"tipo": "saida", "data": "2024-01", "empresa": "Gympass", "valor": "US$ 650M", "descricao": "Venda parcial de participação em secondary"}
+    ],
+    "co_investidores_frequentes": ["Kaszek", "General Atlantic", "Andreessen Horowitz"],
+    "ultimas_transacoes": [
+      {"deal": "QuintoAndar Series E", "papel": "Lead Investor", "ano": 2021},
+      {"deal": "Creditas Series F", "papel": "Lead Investor", "ano": 2021},
+      {"deal": "Nuvemshop Series D", "papel": "Lead Investor", "ano": 2021}
+    ],
+    "descricao": "O maior fundo de VC focado na América Latina, com mais de US$ 8B sob gestão e portfólio de unicórnios líderes do ecossistema",
+    "website": "https://www.softbank.com/en/latam"
+  },
+  {
+    "id": "kaszek-ventures",
+    "nome": "Kaszek Ventures",
+    "tipo": "VC",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "VC",
+    "aum": "US$ 4B",
+    "deals_12m": 7,
+    "deals_3a": 28,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Fintech", "SaaS", "Saúde", "Commerce"],
+    "estagio": ["Seed", "Series A", "Series B", "Series C"],
+    "portfolio_ativo": [
+      {"empresa": "Nubank", "setor": "Fintech", "ano_entrada": 2014},
+      {"empresa": "QuintoAndar", "setor": "PropTech", "ano_entrada": 2018},
+      {"empresa": "Loft", "setor": "PropTech", "ano_entrada": 2018},
+      {"empresa": "Contabilizei", "setor": "B2B SaaS", "ano_entrada": 2017},
+      {"empresa": "Nuvemshop", "setor": "E-commerce SaaS", "ano_entrada": 2019},
+      {"empresa": "Olist", "setor": "Marketplace", "ano_entrada": 2020},
+      {"empresa": "Jusbrasil", "setor": "Legal Tech", "ano_entrada": 2019}
+    ],
+    "exits_recentes": [
+      {"empresa": "Nubank IPO NYSE", "tipo_exit": "IPO", "ano": 2021, "multiplo": 65.0},
+      {"empresa": "Despegar.com (stake)", "tipo_exit": "Venda no Mercado", "ano": 2022, "multiplo": 3.5},
+      {"empresa": "MercadoLibre (early)", "tipo_exit": "Venda no Mercado", "ano": 2021, "multiplo": 180.0}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-09", "empresa": "Caju Benefícios", "valor": "US$ 25M", "descricao": "Liderança em rodada Series B de plataforma de benefícios"},
+      {"tipo": "entrada", "data": "2023-11", "empresa": "Olist Tiny ERP", "valor": "US$ 40M", "descricao": "Follow-on para expansão de ERP para PMEs"},
+      {"tipo": "saida", "data": "2024-02", "empresa": "Contabilizei", "valor": "US$ 180M", "descricao": "Venda para grupo de serviços profissionais"}
+    ],
+    "co_investidores_frequentes": ["SoftBank", "Tiger Global", "Sequoia Capital"],
+    "ultimas_transacoes": [
+      {"deal": "Nubank Series G", "papel": "Early Investor", "ano": 2019},
+      {"deal": "QuintoAndar Series D", "papel": "Lead Investor", "ano": 2020},
+      {"deal": "Loft Series C", "papel": "Lead Investor", "ano": 2021}
+    ],
+    "descricao": "Fundo de VC mais reconhecido da América Latina, fundado por ex-executivos do MercadoLibre, com portfólio de unicórnios de classe mundial",
+    "website": "https://www.kaszek.com"
+  },
+  {
+    "id": "monashees",
+    "nome": "Monashees",
+    "tipo": "VC",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "VC",
+    "aum": "US$ 800M",
+    "deals_12m": 10,
+    "deals_3a": 38,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Tecnologia", "B2B SaaS", "Climate"],
+    "estagio": ["Seed", "Series A", "Series B"],
+    "portfolio_ativo": [
+      {"empresa": "RD Station", "setor": "Marketing SaaS", "ano_entrada": 2013},
+      {"empresa": "Sami Saúde", "setor": "Health Tech", "ano_entrada": 2020},
+      {"empresa": "Gupy", "setor": "HR Tech", "ano_entrada": 2019},
+      {"empresa": "Nuvemshop (early)", "setor": "E-commerce SaaS", "ano_entrada": 2016},
+      {"empresa": "Sinqia", "setor": "Fintech B2B", "ano_entrada": 2018},
+      {"empresa": "Flash Benefícios", "setor": "HR Tech/Fintech", "ano_entrada": 2021}
+    ],
+    "exits_recentes": [
+      {"empresa": "RD Station / TOTVS", "tipo_exit": "Venda Estratégica", "ano": 2021, "multiplo": 12.0},
+      {"empresa": "Moip / Wirecard", "tipo_exit": "Venda Estratégica", "ano": 2020, "multiplo": 4.5},
+      {"empresa": "Sinqia / Evertec", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 6.8}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-07", "empresa": "Agrolend (Agtech)", "valor": "US$ 8M", "descricao": "Series A em fintech de crédito para o agronegócio"},
+      {"tipo": "entrada", "data": "2023-10", "empresa": "Treasy (FP&A SaaS)", "valor": "US$ 5M", "descricao": "Seed+ em plataforma de planejamento financeiro B2B"},
+      {"tipo": "saida", "data": "2024-01", "empresa": "Flash Benefícios", "valor": "US$ 95M", "descricao": "Secondary em rodada de Series C liderada por novo investidor"}
+    ],
+    "co_investidores_frequentes": ["Kaszek", "Canary", "Softbank"],
+    "ultimas_transacoes": [
+      {"deal": "Gupy Series B", "papel": "Lead Investor", "ano": 2021},
+      {"deal": "Sami Saúde Series A", "papel": "Lead Investor", "ano": 2020},
+      {"deal": "Flash Benefícios Series B", "papel": "Lead Investor", "ano": 2021}
+    ],
+    "descricao": "Fundo de VC early-stage pioneiro no ecossistema brasileiro, com portfólio diversificado em SaaS B2B, healthtech e climate tech",
+    "website": "https://www.monashees.com.br"
+  },
+  {
+    "id": "canary",
+    "nome": "Canary",
+    "tipo": "VC Early",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "VC",
+    "aum": "R$ 600M",
+    "deals_12m": 15,
+    "deals_3a": 55,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Early Stage Tech", "B2B"],
+    "estagio": ["Pre-Seed", "Seed", "Series A"],
+    "portfolio_ativo": [
+      {"empresa": "Pipefy", "setor": "BPM SaaS", "ano_entrada": 2019},
+      {"empresa": "Cora", "setor": "Fintech B2B", "ano_entrada": 2020},
+      {"empresa": "Jungle (ex-Squid)", "setor": "MarTech", "ano_entrada": 2021},
+      {"empresa": "Pismo", "setor": "Fintech B2B", "ano_entrada": 2018},
+      {"empresa": "Mamba Negócios", "setor": "B2B SaaS", "ano_entrada": 2022},
+      {"empresa": "Freto (LogTech)", "setor": "Logística", "ano_entrada": 2021}
+    ],
+    "exits_recentes": [
+      {"empresa": "Pismo / Visa", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 22.0},
+      {"empresa": "Tappx / Grupo Ibérico", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 5.5},
+      {"empresa": "Squid/Jungle (stake)", "tipo_exit": "Secondary Sale", "ano": 2023, "multiplo": 3.2}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-09", "empresa": "Nobe (Vertical SaaS)", "valor": "R$ 3M", "descricao": "Seed em SaaS vertical para o setor jurídico"},
+      {"tipo": "entrada", "data": "2023-11", "empresa": "Volpe Capital (Agtech)", "valor": "R$ 5M", "descricao": "Seed em plataforma de mecanização agrícola compartilhada"},
+      {"tipo": "saida", "data": "2024-01", "empresa": "Pismo", "valor": "R$ 1,2B (parcial)", "descricao": "Realização parcial do retorno extraordinário da venda à Visa"}
+    ],
+    "co_investidores_frequentes": ["Monashees", "Astella", "DOMO Invest"],
+    "ultimas_transacoes": [
+      {"deal": "Pismo / Visa Acquisition", "papel": "Early Investor", "ano": 2018},
+      {"deal": "Cora Series B", "papel": "Early Investor", "ano": 2021},
+      {"deal": "Pipefy Series C", "papel": "Early Investor", "ano": 2022}
+    ],
+    "descricao": "Fundo early-stage de referência no ecossistema brasileiro, com track record excepcional incluindo Pismo (adquirida pela Visa por US$1B)",
+    "website": "https://www.canary.vc"
+  },
+  {
+    "id": "astella-investimentos",
+    "nome": "Astella Investimentos",
+    "tipo": "VC",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "VC",
+    "aum": "R$ 400M",
+    "deals_12m": 8,
+    "deals_3a": 30,
+    "volume_assessorado_bi": null,
+    "top_setores": ["SaaS B2B", "Deep Tech"],
+    "estagio": ["Seed", "Series A"],
+    "portfolio_ativo": [
+      {"empresa": "Dito CRM", "setor": "MarTech/SaaS", "ano_entrada": 2016},
+      {"empresa": "Precifique", "setor": "Pricing SaaS", "ano_entrada": 2018},
+      {"empresa": "BOLD", "setor": "Design/Creativetech", "ano_entrada": 2020},
+      {"empresa": "Omie ERP", "setor": "ERP SaaS PME", "ano_entrada": 2017},
+      {"empresa": "Tractian (monitoramento)", "setor": "Industrial IoT", "ano_entrada": 2021}
+    ],
+    "exits_recentes": [
+      {"empresa": "Omie / Sage Group", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 8.5},
+      {"empresa": "Horus / Acesso Digital", "tipo_exit": "Venda Estratégica", "ano": 2021, "multiplo": 5.2},
+      {"empresa": "Precifique / Dafiti", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 4.8}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-06", "empresa": "Flowins (Automação Industrial)", "valor": "R$ 8M", "descricao": "Seed em plataforma de automação de processos industriais"},
+      {"tipo": "entrada", "data": "2023-10", "empresa": "Qive (NF-e SaaS)", "valor": "R$ 12M", "descricao": "Series A em gestão de documentos fiscais B2B"},
+      {"tipo": "saida", "data": "2024-01", "empresa": "Precifique", "valor": "R$ 85M", "descricao": "Exit via venda estratégica para marketplace de moda"}
+    ],
+    "co_investidores_frequentes": ["Canary", "Monashees", "Redpoint eventures"],
+    "ultimas_transacoes": [
+      {"deal": "Tractian Series B", "papel": "Early Investor", "ano": 2022},
+      {"deal": "Omie ERP", "papel": "Lead Investor", "ano": 2017},
+      {"deal": "Dito CRM", "papel": "Lead Investor", "ano": 2016}
+    ],
+    "descricao": "Fundo de VC focado em B2B SaaS e deep tech brasileiras, reconhecido por suporte intensivo a fundadores em estágios iniciais",
+    "website": "https://www.astella.com.br"
+  },
+  {
+    "id": "redpoint-eventures",
+    "nome": "Redpoint eventures",
+    "tipo": "VC",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "VC",
+    "aum": "US$ 600M",
+    "deals_12m": 9,
+    "deals_3a": 32,
+    "volume_assessorado_bi": null,
+    "top_setores": ["SaaS", "Fintech", "Edtech"],
+    "estagio": ["Seed", "Series A", "Series B"],
+    "portfolio_ativo": [
+      {"empresa": "Creditas (early)", "setor": "Fintech", "ano_entrada": 2016},
+      {"empresa": "Sympla (eventos)", "setor": "SaaS/Consumer", "ano_entrada": 2018},
+      {"empresa": "CloudWalk (POS)", "setor": "Fintech B2B", "ano_entrada": 2019},
+      {"empresa": "Descomplica (edtech)", "setor": "Edtech", "ano_entrada": 2017},
+      {"empresa": "Conta Simples", "setor": "Fintech B2B", "ano_entrada": 2021},
+      {"empresa": "Layers Educação", "setor": "Edtech SaaS", "ano_entrada": 2020}
+    ],
+    "exits_recentes": [
+      {"empresa": "Sympla / Eventbrite", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 6.5},
+      {"empresa": "Creditas (stake)", "tipo_exit": "Secondary Sale", "ano": 2021, "multiplo": 18.0},
+      {"empresa": "Descomplica / Cogna", "tipo_exit": "Venda Estratégica", "ano": 2021, "multiplo": 7.2}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-08", "empresa": "Plataforma BizCapital", "valor": "US$ 15M", "descricao": "Series B em fintech de crédito para PMEs"},
+      {"tipo": "entrada", "data": "2023-11", "empresa": "Lição de Casa", "valor": "US$ 8M", "descricao": "Series A em plataforma de edtech para educação básica"},
+      {"tipo": "saida", "data": "2024-02", "empresa": "CloudWalk", "valor": "US$ 280M (parcial)", "descricao": "Secondary sale parcial para fundo de crescimento"}
+    ],
+    "co_investidores_frequentes": ["Kaszek", "Monashees", "Tiger Global"],
+    "ultimas_transacoes": [
+      {"deal": "Creditas Series F", "papel": "Early Investor", "ano": 2021},
+      {"deal": "CloudWalk Series B", "papel": "Lead Investor", "ano": 2021},
+      {"deal": "Sympla / Eventbrite", "papel": "Early Investor", "ano": 2018}
+    ],
+    "descricao": "Joint venture entre Redpoint Ventures (EUA) e e.ventures com foco em SaaS, fintech e edtech no ecossistema brasileiro",
+    "website": "https://www.rpev.com.br"
+  },
+  {
+    "id": "domo-invest",
+    "nome": "DOMO Invest",
+    "tipo": "VC Early",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "VC",
+    "aum": "R$ 250M",
+    "deals_12m": 12,
+    "deals_3a": 45,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Early Stage Tech"],
+    "estagio": ["Pre-Seed", "Seed"],
+    "portfolio_ativo": [
+      {"empresa": "Cora Fintech (early)", "setor": "Fintech", "ano_entrada": 2019},
+      {"empresa": "Celcoin", "setor": "Fintech B2B", "ano_entrada": 2019},
+      {"empresa": "Boa Compra (e-commerce)", "setor": "Commerce", "ano_entrada": 2021},
+      {"empresa": "Gaia (climate tech)", "setor": "Climate", "ano_entrada": 2022},
+      {"empresa": "Barte Pagamentos", "setor": "Fintech B2B", "ano_entrada": 2021}
+    ],
+    "exits_recentes": [
+      {"empresa": "Celcoin / Associados", "tipo_exit": "Secondary Sale", "ano": 2023, "multiplo": 15.0},
+      {"empresa": "Cora Series B (stake)", "tipo_exit": "Secondary Sale", "ano": 2022, "multiplo": 8.5},
+      {"empresa": "ZenKlub / Vittude", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 3.2}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-09", "empresa": "Gente Saúde", "valor": "R$ 2M", "descricao": "Pre-seed em plataforma de planos de saúde para PMEs"},
+      {"tipo": "entrada", "data": "2023-11", "empresa": "Rocketmat", "valor": "R$ 3M", "descricao": "Seed em marketplace B2B de materiais de construção"},
+      {"tipo": "saida", "data": "2024-01", "empresa": "Celcoin", "valor": "R$ 120M", "descricao": "Realização via secondary em rodada de crescimento da fintech"}
+    ],
+    "co_investidores_frequentes": ["Canary", "Astella", "Bossanova Investimentos"],
+    "ultimas_transacoes": [
+      {"deal": "Celcoin Pre-seed", "papel": "Lead Investor", "ano": 2019},
+      {"deal": "Cora Seed", "papel": "Co-investidor", "ano": 2019},
+      {"deal": "Barte Pagamentos Series A", "papel": "Co-investidor", "ano": 2021}
+    ],
+    "descricao": "Fundo early-stage com foco em fintechs e SaaS B2B no Brasil, reconhecido por investimentos de convicção em estágios muito iniciais",
+    "website": "https://www.domoinvest.com"
+  },
+  {
+    "id": "valor-capital-group",
+    "nome": "Valor Capital Group",
+    "tipo": "VC",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "VC",
+    "aum": "US$ 500M",
+    "deals_12m": 7,
+    "deals_3a": 25,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Tecnologia", "Agtech", "Fintech"],
+    "estagio": ["Series A", "Series B", "Series C"],
+    "portfolio_ativo": [
+      {"empresa": "Reportei (MarTech)", "setor": "SaaS", "ano_entrada": 2019},
+      {"empresa": "Agrolend", "setor": "Agtech/Fintech", "ano_entrada": 2021},
+      {"empresa": "Solinftec (agtech)", "setor": "Agtech", "ano_entrada": 2020},
+      {"empresa": "Solfácil (solar)", "setor": "Climate/Fintech", "ano_entrada": 2021},
+      {"empresa": "Superlógica SaaS", "setor": "PropTech/SaaS", "ano_entrada": 2022}
+    ],
+    "exits_recentes": [
+      {"empresa": "Wabbi / CI&T", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 5.5},
+      {"empresa": "unico IDTech", "tipo_exit": "Secondary Sale", "ano": 2023, "multiplo": 9.0},
+      {"empresa": "OiMovel Parcela", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 2.8}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-07", "empresa": "Agrolend Series B", "valor": "US$ 30M", "descricao": "Liderança em rodada de expansão da fintech de crédito agrícola"},
+      {"tipo": "entrada", "data": "2023-10", "empresa": "Solfácil Series C", "valor": "US$ 45M", "descricao": "Co-investimento em líder de financiamento solar residencial"},
+      {"tipo": "saida", "data": "2024-02", "empresa": "unico IDTech", "valor": "US$ 210M (parcial)", "descricao": "Venda secundária em round de crescimento"}
+    ],
+    "co_investidores_frequentes": ["SoftBank", "Kaszek", "IFC"],
+    "ultimas_transacoes": [
+      {"deal": "Agrolend Series B", "papel": "Lead Investor", "ano": 2023},
+      {"deal": "Solfácil Series C", "papel": "Co-investidor", "ano": 2023},
+      {"deal": "Solinftec Series B", "papel": "Lead Investor", "ano": 2021}
+    ],
+    "descricao": "Fundo de VC americano-brasileiro com forte foco em agtech, fintech e tecnologia, ponte entre ecossistemas do Brasil e dos EUA",
+    "website": "https://www.valorcapital.com"
+  },
+  {
+    "id": "maya-capital",
+    "nome": "Maya Capital",
+    "tipo": "VC",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "VC",
+    "aum": "US$ 200M",
+    "deals_12m": 8,
+    "deals_3a": 30,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Consumer", "Fintech", "B2B SaaS"],
+    "estagio": ["Pre-Seed", "Seed", "Series A"],
+    "portfolio_ativo": [
+      {"empresa": "Gato Preto (fashion)", "setor": "Consumer/E-commerce", "ano_entrada": 2021},
+      {"empresa": "Pier Seguros", "setor": "Insurtech", "ano_entrada": 2019},
+      {"empresa": "Keevo Certificado Digital", "setor": "B2B SaaS", "ano_entrada": 2020},
+      {"empresa": "Kamino (fintech B2B)", "setor": "Fintech", "ano_entrada": 2022},
+      {"empresa": "Granatum Financeiro", "setor": "Fintech/SaaS", "ano_entrada": 2021}
+    ],
+    "exits_recentes": [
+      {"empresa": "Pier Seguros / Porto Seguro", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 6.5},
+      {"empresa": "Granatum / Grupo Sage", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 4.8},
+      {"empresa": "TecnoSpeed / Senior Sistemas", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 5.2}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-08", "empresa": "Kamino Series A", "valor": "US$ 12M", "descricao": "Liderança em rodada de fintech de despesas corporativas"},
+      {"tipo": "entrada", "data": "2023-12", "empresa": "Simbora (travel tech)", "valor": "US$ 4M", "descricao": "Seed em plataforma de gestão de viagens corporativas"},
+      {"tipo": "saida", "data": "2024-01", "empresa": "Pier Seguros", "valor": "US$ 48M", "descricao": "Venda para Porto Seguro com retorno de 6.5x"}
+    ],
+    "co_investidores_frequentes": ["Canary", "DOMO Invest", "Valor Capital"],
+    "ultimas_transacoes": [
+      {"deal": "Pier Seguros Seed", "papel": "Lead Investor", "ano": 2019},
+      {"deal": "Kamino Series A", "papel": "Lead Investor", "ano": 2023},
+      {"deal": "Granatum Series B", "papel": "Co-investidor", "ano": 2021}
+    ],
+    "descricao": "Fundo de VC fundado por ex-gestores de Kaszek com foco em consumer tech, insurtech e fintech em estágios iniciais",
+    "website": "https://www.maya.capital"
+  },
+  {
+    "id": "patria-vc",
+    "nome": "Pátria Investimentos VC",
+    "tipo": "VC/Growth",
+    "tipo_categoria": "pevc",
+    "tipo_fundo": "Growth",
+    "aum": "R$ 3B",
+    "deals_12m": 6,
+    "deals_3a": 20,
+    "volume_assessorado_bi": null,
+    "top_setores": ["Tecnologia", "Agtech"],
+    "estagio": ["Series B", "Series C", "Growth"],
+    "portfolio_ativo": [
+      {"empresa": "Solinftec (agtech)", "setor": "Agtech", "ano_entrada": 2021},
+      {"empresa": "Agritask Platform", "setor": "Agtech SaaS", "ano_entrada": 2022},
+      {"empresa": "Sansa Capital (agtech fintech)", "setor": "Agtech/Fintech", "ano_entrada": 2023},
+      {"empresa": "Inteliagri", "setor": "Agtech/IoT", "ano_entrada": 2021},
+      {"empresa": "Farm Tech Solutions", "setor": "Agtech", "ano_entrada": 2022},
+      {"empresa": "FieldCore Brasil", "setor": "Agtech/SaaS", "ano_entrada": 2023}
+    ],
+    "exits_recentes": [
+      {"empresa": "Agriforce / Bayer Digital", "tipo_exit": "Venda Estratégica", "ano": 2022, "multiplo": 4.5},
+      {"empresa": "Solinftec International", "tipo_exit": "Secondary Sale", "ano": 2023, "multiplo": 3.2},
+      {"empresa": "PrevineFarm", "tipo_exit": "Venda Estratégica", "ano": 2023, "multiplo": 3.8}
+    ],
+    "operacoes_recentes": [
+      {"tipo": "entrada", "data": "2023-05", "empresa": "Sansa Capital", "valor": "R$ 120M", "descricao": "Series B em plataforma de crédito e gestão financeira para produtores rurais"},
+      {"tipo": "entrada", "data": "2023-09", "empresa": "FieldCore Brasil", "valor": "R$ 85M", "descricao": "Series A em SaaS de gestão de campo para o agronegócio"},
+      {"tipo": "saida", "data": "2024-02", "empresa": "Solinftec", "valor": "R$ 480M (parcial)", "descricao": "Secondary sale para fundos internacionais de agtech"}
+    ],
+    "co_investidores_frequentes": ["Valor Capital", "IFC", "BNDES Fiagro"],
+    "ultimas_transacoes": [
+      {"deal": "Solinftec Series C", "papel": "Lead Investor", "ano": 2021},
+      {"deal": "Sansa Capital Series B", "papel": "Lead Investor", "ano": 2023},
+      {"deal": "Agritask LatAm", "papel": "Investidor", "ano": 2022}
+    ],
+    "descricao": "Braço de VC/Growth da Pátria Investimentos com foco em tecnologias aplicadas ao agronegócio e inovação para o setor rural brasileiro",
+    "website": "https://www.patria.com"
+  }
+]
